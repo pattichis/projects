@@ -8,7 +8,7 @@ To create your own repo refer to the [GitHub guide](https://github.com/pattichis
 1. Search for [Papers with code](https://paperswithcode.com/). Look separately for Methods and Datasets.
 2. Search for datasets, models, and dataset competitions on [kaggle](https://www.kaggle.com/).
 3. Search for Computer Vision datasets on [PyTorch vision datasets website](https://pytorch.org/vision/stable/datasets.html).
-4. Search for PyTorch models [PyTorch methods website](https://pytorch.org/vision/stable/models.html).
+4. Search for pretrained PyTorch models [PyTorch models website](https://pytorch.org/vision/stable/models.html).
    
 ## Learning Python and Machine Learning from scratch
 You can access a self-paced image-processing-based introduction to AI and Machine Learning through 
