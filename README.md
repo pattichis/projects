@@ -1,11 +1,14 @@
 # projects
 The goal of this repository is to support projects that use Python, AI, and Machine Learning.
 
+## How to create a GitHub repo for your project
+To create your own repo refer to the [GitHub guide](https://github.com/pattichis/projects/blob/main/GitHub.md).
 
-## Recommended books and tutorials
+## Learning Python and Machine Learning from scratch
 You can access a self-paced image-processing-based introduction to AI and Machine Learning through 
 [my guided tutorial](https://github.com/pattichis/AIML)
 
+## Hands-on Machine Learning tutorials and book
 For more advanced work, refer to the Google Colab notebooks developed for [Hands on Machine Learning by Aurélien Géron](https://github.com/ageron/handson-mlp). 
 To install the tutorials locally on your machine, execute:
   1. Follow [the installation instructions](https://github.com/ageron/handson-mlp/blob/main/INSTALL.md).
