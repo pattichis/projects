@@ -7,17 +7,17 @@ To create your own repo refer to the [GitHub guide](https://github.com/pattichis
 ## How to develop Google Colab tutorials for your project
 In order to develop Google Colab tutorials for your own repo, refer to [Google Colab tutorial for repos](https://github.com/pattichis/projects/blob/main/Colab-tutorial.md).
 
-## Finding datasets and models for your project
+## How to find datasets and models for your project
 1. Search for [Papers with code](https://paperswithcode.com/). Look separately for Methods and Datasets.
 2. Search for datasets, models, and dataset competitions on [kaggle](https://www.kaggle.com/).
 3. Search for Computer Vision datasets on [PyTorch vision datasets website](https://pytorch.org/vision/stable/datasets.html).
 4. Search for pretrained PyTorch models [PyTorch models website](https://pytorch.org/vision/stable/models.html).
    
-## Learning Python and Machine Learning from scratch
+## How to learn Python and Machine Learning from scratch
 You can access a self-paced image-processing-based introduction to AI and Machine Learning through 
 [my guided tutorial](https://github.com/pattichis/AIML)
 
-## Hands-on Machine Learning tutorials and book
+## How to learn Machine Learning using the Hands-on Machine Learning tutorials and book
 For more advanced work, refer to the Google Colab notebooks developed for [Hands on Machine Learning by Aurélien Géron](https://github.com/ageron/handson-mlp). 
 To install the tutorials locally on your machine, execute:
   1. Follow [the installation instructions](https://github.com/ageron/handson-mlp/blob/main/INSTALL.md).
@@ -35,7 +35,7 @@ Similarly, the [official PyTorch website](https://pytorch.org/) is a great place
 Refer to my guide on how to mount datasets using Google Drive and how to test official PyTorch tutorials based on 
 [my Colab guide for PyTorch](https://github.com/pattichis/projects/blob/main/Colab-Pytorch.md)
 
-## Other recommended books
+## How to learn more about Machine Learning and Statistical Learning theory using other recommended books
 For the statistical foundations of AI and Machine Learning methods, I use [An Introduction to Statistical Learning](https://www.statlearning.com/). You can download the PDF of the book for free. The accompanying Python labs are excellent and demonstrate several essential concepts.
 
 An accessible reference to modern AI/ML concepts can be found in [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/). The book is freely available online.
