@@ -9,6 +9,11 @@ You can access a self-paced image-processing-based introduction to AI and Machin
 For more advanced work, refer to the Google Colab notebooks developed for [Hands on Machine Learning by Aurélien Géron](https://github.com/ageron/handson-mlp). You can install the demos locally on your machine using [his installation instructions](https://github.com/ageron/handson-mlp/blob/main/INSTALL.md). His book titled <i>Hands-on Machine Learning with Scikit-Learn and Pytorch: Concepts, Tools, and Techniques To... Build Intelligent Systems</i>
 can be accessed for free through [UNM library links to O'Reilly books, IEEE, etc](https://libguides.unm.edu/computer-science)
 
+The original Scikit-Learn website has outstanding tutorials for Machine Learning. They can be found at [Scikit Learn website](https://scikit-learn.org/stable/).
+
+Similarly, the [official PyTorch website](https://pytorch.org/) is a great place to start.
+
+## Other recommended books
 For the statistical foundations of AI and Machine Learning methods, I use [An Introduction to Statistical Learning](https://www.statlearning.com/). You can download the PDF of the book for free. The accompanying Python labs are excellent and demonstrate several essential concepts.
 
 An accessible reference to modern AI/ML concepts can be found in [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/). The book is freely available online.
