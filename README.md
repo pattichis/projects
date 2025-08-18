@@ -31,7 +31,7 @@ The original Scikit-Learn website has outstanding tutorials for Machine Learning
 
 Similarly, the [official PyTorch website](https://pytorch.org/) is a great place to start.
 
-## Working with Google Colab tutorials from PyTorch website
+## How to run Google Colab tutorials availabe on PyTorch website
 Refer to my guide on how to mount datasets using Google Drive and how to test official PyTorch tutorials based on 
 [my Colab guide for PyTorch](https://github.com/pattichis/projects/blob/main/Colab-Pytorch.md)
 
