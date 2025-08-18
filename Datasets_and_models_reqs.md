@@ -1,4 +1,4 @@
-# Requirements
+# Required descriptions for models and datasets for your project
 
 The project requires a short description of your dataset. At the project
 proposal time, you will need to briefly describe how you want to address
