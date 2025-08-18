@@ -4,6 +4,9 @@ The goal of this repository is to support projects that use Python, AI, and Mach
 ## How to create a GitHub repo for your project
 To create your own repo refer to the [GitHub guide](https://github.com/pattichis/projects/blob/main/GitHub.md).
 
+## How to develop Google Colab tutorials for your project
+In order to develop Google Colab tutorials for your own repo, refer to [Google Colab tutorial for repos](https://github.com/pattichis/projects/blob/main/Colab-tutorial.md).
+
 ## Finding datasets and models for your project
 1. Search for [Papers with code](https://paperswithcode.com/). Look separately for Methods and Datasets.
 2. Search for datasets, models, and dataset competitions on [kaggle](https://www.kaggle.com/).
