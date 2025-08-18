@@ -125,7 +125,7 @@ running.
     You will need to unzip the files and copy them to the `data`
     directory as outlined above.
 
-## TorchVision Object Detection Finetuning Tutorial {#sec:obj}
+## TorchVision Object Detection Finetuning Tutorial 
 
 1.  This tutorial is available at: [torchvision
     link](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html).
