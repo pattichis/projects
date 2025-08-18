@@ -22,6 +22,10 @@ The original Scikit-Learn website has outstanding tutorials for Machine Learning
 
 Similarly, the [official PyTorch website](https://pytorch.org/) is a great place to start.
 
+## Working with Google Colab tutorials from PyTorch website
+Refer to my guide on how to mount datasets using Google Drive and how to test official PyTorch tutorials based on [my Colab guide for PyTorch]
+(https://github.com/pattichis/projects/blob/main/Colab-Pytorch.md)
+
 ## Other recommended books
 For the statistical foundations of AI and Machine Learning methods, I use [An Introduction to Statistical Learning](https://www.statlearning.com/). You can download the PDF of the book for free. The accompanying Python labs are excellent and demonstrate several essential concepts.
 
