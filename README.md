@@ -7,7 +7,6 @@ You can access a self-paced image-processing-based introduction to AI and Machin
 [my guided tutorial](https://github.com/pattichis/AIML)
 
 For more advanced work, refer to the Google Colab notebooks developed for [Hands on Machine Learning by Aurélien Géron](https://github.com/ageron/handson-mlp). 
-
 To install the tutorials locally on your machine, execute:
   1. Follow [the installation instructions](https://github.com/ageron/handson-mlp/blob/main/INSTALL.md).
   2. To learn more about working with Anaconda environments, refer to [my installation guide](https://github.com/pattichis/projects/blob/main/Anaconda-installation-notes.md).
