@@ -1,4 +1,4 @@
-# Install Anaconda
+# Install Anaconda with OpenCV 
 
 Consult the official PyTorch installation instructions from
 `GET STARTED`. This is currently given at [PyTorch Get Started
@@ -159,5 +159,85 @@ Then open the file locally and run it.
 
 # Uninstalling Anaconda
 If you update your Operating System, Anaconda may fail to load. In this
-case, follow the information given in [ NVidia uninstall
+case, follow the information given in [uninstall
 link](https://docs.anaconda.com/free/anaconda/install/uninstall/).
+
+# Working with OpenCV libraries
+The following instructions allow you to download OpenCV from [OpenCV
+link](https://github.com/opencv/opencv):
+
+      Go to https://github.com/opencv/opencv
+      Click on "<> Code"
+      Click Download ZIP
+      Open the ZIP file in the local directory
+
+After unzipping, navigate to `/opencv-4.x/samples/python`.\
+You can **run the demos one-by-one using**:
+
+    (base) ...>conda activate pytorch
+    (pytorch) ...>python demo.py
+
+However, I also provide some important demos below.\
+Please note that if you run into problems accessing the image files, you
+will need to add (depends on the shell program that you are running):
+
+     Export OPENCV_SAMPLES_DATA_PATH=/path-to-opencv/opencv-4.x/samples/data
+
+If you still have issues, then you want to look at the source code in
+Python, identify the filename that OpenCV is looking for, and copy it to
+your Python directory.
+
+For example, the following line often fails because of path issues:
+
+      img = cv.imread(cv.samples.findFile(img_fn))
+
+You will have to replace this line with:
+
+      img = cv.imread(img_fn)
+
+For example, for `dft.py`, I had to copy the 'baboon.jpg' from
+`/path-to-opencv/opencv-4.x/samples/data` to the Python directory and
+then modify the code to read it locally using:
+
+    def main():
+        if len(sys.argv) > 1:
+            fname = sys.argv[1]
+        else:
+            fname = 'baboon.jpg'
+            print("usage : python dft.py <image_file>")
+
+        im = cv.imread(fname)
+
+For the following demos, hit `esc` key to escape the demos.
+
+You can visualize the histogram functions available in OpenCV using:
+
+                   python hist.py
+
+The Discrete Fourier Transform demo can be seen using:
+
+                   python dft.py
+
+You can run a nice deconvolution example using:
+
+                   python deconvolution.py
+
+You can run the following great multithreaded demos:
+
+                   python video_threaded.py 
+                   python gabor_threads.py
+
+Use the spacebar to generate different distributions for K-means given
+by:
+
+                  python kmeans.py
+
+We can see a demo of edge detection using:
+
+                  python edge.py
+
+The following demos are also working with video motions:
+
+                  python opt_flow.py
+                  python dis_opt_flow.py
+                  python lk_track.py
