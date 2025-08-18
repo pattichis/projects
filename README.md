@@ -3,8 +3,12 @@ The goal of this repository is to support projects that use Python, AI, and Mach
 
 
 ## Recommended tutorials
-1. [Basic tutorials in AI and Machine Learning for middle-school and high-school by Prof. Marios Pattichis](https://github.com/pattichis/AIML)
-2. [Hands on Machine Learning by Aurélien Géron](https://github.com/ageron/handson-mlp)
+You can access a self-paced image-processing-based introduction to AI and Machine Learning through this   
+[GitHub developed by Prof. Marios Pattichis](https://github.com/pattichis/AIML)
+
+For more advanced work, refer to [Hands on Machine Learning by Aurélien Géron](https://github.com/ageron/handson-mlp).
+His book titled <i>Hands-on Machine Learning with Scikit-Learn and Pytorch: Concepts, Tools, and Techniques To... Build Intelligent Systems</i>
+can be accessed for free through [UNM library links to book, O'Reilly books, IEEE, etc](https://libguides.unm.edu/computer-science)
 
 ## Sample Projects
 
