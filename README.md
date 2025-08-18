@@ -3,10 +3,17 @@ The goal of this repository is to support projects that use Python, AI, and Mach
 
 
 ## Recommended books and tutorials
-You can access a self-paced image-processing-based introduction to AI and Machine Learning through this   
-[GitHub developed by Prof. Marios Pattichis](https://github.com/pattichis/AIML)
+You can access a self-paced image-processing-based introduction to AI and Machine Learning through 
+[my guided tutorial](https://github.com/pattichis/AIML)
 
-For more advanced work, refer to the Google Colab notebooks developed for [Hands on Machine Learning by Aurélien Géron](https://github.com/ageron/handson-mlp). You can install the demos locally on your machine using [his installation instructions](https://github.com/ageron/handson-mlp/blob/main/INSTALL.md). His book titled <i>Hands-on Machine Learning with Scikit-Learn and Pytorch: Concepts, Tools, and Techniques To... Build Intelligent Systems</i>
+For more advanced work, refer to the Google Colab notebooks developed for [Hands on Machine Learning by Aurélien Géron](https://github.com/ageron/handson-mlp). 
+
+To install the tutorials locally on your machine, execute:
+  1. Follow [the installation instructions](https://github.com/ageron/handson-mlp/blob/main/INSTALL.md).
+  2. To learn more about working with Anaconda environments, refer to [my installation guide](https://github.com/pattichis/projects/blob/main/Anaconda-installation-notes.md).
+  3. Refer to my notes on working with [Jupyter notebooks](https://github.com/pattichis/projects/blob/main/Jupyter-Notebooks-Notes.md).
+
+His book titled <i>Hands-on Machine Learning with Scikit-Learn and Pytorch: Concepts, Tools, and Techniques To... Build Intelligent Systems</i>
 can be accessed for free through [UNM library links to O'Reilly books, IEEE, etc](https://libguides.unm.edu/computer-science)
 
 The original Scikit-Learn website has outstanding tutorials for Machine Learning. They can be found at [Scikit Learn website](https://scikit-learn.org/stable/).
