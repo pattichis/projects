@@ -1,4 +1,4 @@
-# An Overview of Working with Google Colab Tutorials
+# An Overview of Working with Google Colab Tutorials from PyTorch
 
 The Pytorch website has many important tutorials that are worth
 investigating. This section provides a summary of how to work with
