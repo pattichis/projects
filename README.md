@@ -4,6 +4,12 @@ The goal of this repository is to support projects that use Python, AI, and Mach
 ## How to create a GitHub repo for your project
 To create your own repo refer to the [GitHub guide](https://github.com/pattichis/projects/blob/main/GitHub.md).
 
+## Finding datasets and models for your project
+1. Search for [Papers with code](https://paperswithcode.com/). Look separately for Methods and Datasets.
+2. Search for datasets, models, and dataset competitions on [kaggle](https://www.kaggle.com/).
+3. Search for Computer Vision datasets on [PyTorch vision datasets website](https://pytorch.org/vision/stable/datasets.html).
+4. Search for PyTorch models [PyTorch methods website](https://pytorch.org/vision/stable/models.html).
+   
 ## Learning Python and Machine Learning from scratch
 You can access a self-paced image-processing-based introduction to AI and Machine Learning through 
 [my guided tutorial](https://github.com/pattichis/AIML)
