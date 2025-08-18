@@ -9,6 +9,15 @@ You can access a self-paced image-processing-based introduction to AI and Machin
 For more advanced work, refer to the Google Colab notebooks developed for [Hands on Machine Learning by Aurélien Géron](https://github.com/ageron/handson-mlp). You can install the demos locally on your machine using [his installation instructions](https://github.com/ageron/handson-mlp/blob/main/INSTALL.md). His book titled <i>Hands-on Machine Learning with Scikit-Learn and Pytorch: Concepts, Tools, and Techniques To... Build Intelligent Systems</i>
 can be accessed for free through [UNM library links to O'Reilly books, IEEE, etc](https://libguides.unm.edu/computer-science)
 
+For the statistical foundations of AI and Machine Learning methods, I use [An Introduction to Statistical Learning](https://www.statlearning.com/). You can download the PDF of the book for free. The accompanying Python labs are excellent and demonstrate several essential concepts.
+
+An accessible reference to modern AI/ML concepts can be found in [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/). The book is freely available online.
+
+One of my students found the Understanding Deep Learning book by Simon J.D. Prince to be highly accessible. This book can be accessed from [GitHub link](https://udlbook.github.io/udlbook/).
+
+At UNM, you can openly access the book by Professor Martínez-Ramón who teaches our Deep Learning course. His book, co-authored with UNM students alumni, is titled at <i>Deep learning : a practical introduction / Manel Martínez-Ramón, Meenu Ajith, Aswathy Rajendra Kurup</i>. You can access it through [link](https://research.ebsco.com/c/kov46v/search/details/j5rkgtpylz?limiters=FT1%3AY&q=Manel%20Martinez-Ramon%20Deep%20Learning).
+
+
 ## Sample projects
 
 <b>Audio classification by Benjamin Metzner</b><br>
