@@ -11,7 +11,7 @@ can be accessed for free through [UNM library links to O'Reilly books, IEEE, etc
 
 ## Sample Projects
 
-* <b>Audio classification by Benjamin Metzner.</b>
+#### Audio classification by Benjamin Metzner.
 This GitHub demonstrates the new required format for GitHub projects for ECE 551.<br>
 There are separate modules for data loading, training, and testing.<br>
 [Audio classification project based on separate modules](https://github.com/bman222112/ECE551)
