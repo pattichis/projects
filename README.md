@@ -1,7 +1,18 @@
 # projects
 The goal of this repository is to support projects that use Python, AI, and Machine Learning.
 
+
+## Recommended tutorials
+1. [Basic tutorials in AI and Machine Learning for middle-school and high-school by Prof. Marios Pattichis](https://github.com/pattichis/AIML)
+2. [Hands on Machine Learning by Aurélien Géron](https://github.com/ageron/handson-mlp)
+
 ## Sample Projects
+
+### Audio classification by Benjamin Metzner
+This GitHub demonstrates the new required format for GitHub projects for ECE 551.<br>
+There are separate modules for data loading, training, and testing.<br>
+[Audio classification project based on separate modules](https://github.com/bman222112/ECE551)
+
 ### Video segmentation using SAM (complete) and SAM2 (incomplete) by Brian McCollum
 [Video segmentation project](https://github.com/briyoon/ECE551-Video-Seg)
 
