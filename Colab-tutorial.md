@@ -1,4 +1,4 @@
-# Repositories
+# Create repositories with Google Colab notebooks
 
 A Repository allows you to update a collection of Google Colab notebooks
 directly from your browser.
