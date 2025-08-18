@@ -1,4 +1,4 @@
-# Install Anaconda with OpenCV 
+# Install Anaconda with Scikit Learn and OpenCV 
 
 Consult the official PyTorch installation instructions from
 `GET STARTED`. This is currently given at [PyTorch Get Started
@@ -97,14 +97,11 @@ Prompt as an Administrator and do:
     spyder
 
 ## Running PyTorch after installation
-
 Every time you need to login, simply follow:
 
     Run the Anconda Prompt.
     Then switch to the pytorch environment using:
     (base) ...>conda activate pytorch
-    conda install -c conda-forge jupyterlab
-
     (pytorch) ...>jupyter notebook
 
 ### Reinstall if you update the Operating System
@@ -128,7 +125,17 @@ Scikit Learn. First, you can leave the current environment using:
 
     (pytorch) ...>conda deactivate
 
-We then want to create the sklearn-env and install some basic packages:
+The following instructions install Scikit Learn in a new Conda environment.
+If you want to install it in the PyTorch environment, simply execute:
+
+    (base) ...>conda activate pytorch
+
+Assuming that you want to create a new environment without PyTorch, execute:
+
+    (base) ...>conda create -n sklearn-env -c conda-forge scikit-learn
+    (base) ...>conda activate sklearn-env
+
+You can then install the packages using:
 
     (base) ...>conda create -n sklearn-env -c conda-forge scikit-learn
     (base) ...>conda activate sklearn-env
