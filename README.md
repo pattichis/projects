@@ -20,7 +20,7 @@ There are separate modules for data loading, training, and testing. Refer to
 This GitHub demonstrates the use of foundation models to provide ground truth.
 It can be accessed through [video segmentation project](https://github.com/briyoon/ECE551-Video-Seg)
 
-<b>Custom dataset for image classification by James Griego</b><br>  
+<b>Custom dataset for image classification by James Griego</b>  
 This early GitHub provides essential information on how to build a 
 [custom dataset for image classification using open datasets](https://github.com/jgreg4/ML-ImageClassify-Tutorial).
 
