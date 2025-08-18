@@ -2,7 +2,7 @@
 The goal of this repository is to support projects that use Python, AI, and Machine Learning.
 
 
-## Recommended tutorials
+## Recommended books and tutorials
 You can access a self-paced image-processing-based introduction to AI and Machine Learning through this   
 [GitHub developed by Prof. Marios Pattichis](https://github.com/pattichis/AIML)
 
@@ -15,7 +15,7 @@ An accessible reference to modern AI/ML concepts can be found in [Deep Learning:
 
 One of my students found the Understanding Deep Learning book by Simon J.D. Prince to be highly accessible. This book can be accessed from [GitHub link](https://udlbook.github.io/udlbook/).
 
-At UNM, you can openly access the book by Professor Martínez-Ramón who teaches our Deep Learning course. His book, co-authored with UNM students alumni, is titled at <i>Deep learning : a practical introduction / Manel Martínez-Ramón, Meenu Ajith, Aswathy Rajendra Kurup</i>. You can access it through [link](https://research.ebsco.com/c/kov46v/search/details/j5rkgtpylz?limiters=FT1%3AY&q=Manel%20Martinez-Ramon%20Deep%20Learning).
+At UNM, you can openly access the book by Professor Martínez-Ramón who teaches our Deep Learning course. His book, co-authored with UNM students alumni, is titled at <i>Deep learning : a practical introduction / Manel Martínez-Ramón, Meenu Ajith, Aswathy Rajendra Kurup</i>. You can access it through [link](https://research.ebsco.com/c/kov46v/search/details/j5rkgtpylz?limiters=FT1%3AY&q=Manel%20Martinez-Ramon%20Deep%20Learning). If the link does not work, search for it through the [UNM library link](https://library.unm.edu/).
 
 
 ## Sample projects
