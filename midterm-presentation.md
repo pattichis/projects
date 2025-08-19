@@ -1,12 +1,4 @@
-**Midterm Project Presentation**
-
-**#1. Presentation Date:** **#1. Presentation Date:** You will be
-presenting the final project by arranging a time on Friday or Monday
-afternoon (1pm to 6pm) through consultation with the instructor. You
-will need to arrange a time to present by emailing your instructor at
-<pattichi@unm.edu>.
-
-**Presentation Guidelines:**
+# Midterm project presentation guidelines
 
 -   **You must keep track of the feedback received during your
     presentation. You will be expected to address the feedback in your
@@ -18,9 +10,9 @@ will need to arrange a time to present by emailing your instructor at
 -   Roughly 12 slides, 1 minute per slide. **Groups can present up to 7
     times the number of people in the group.**
 
--   ***Basic method presentation slide layout:***
+## Method presentation slide layout
 
-    -   Title slide with your name, title, date
+    -   Title slide with your name, title, and date
 
     -   Outline slide summarizing the different parts of your talk
 
@@ -31,20 +23,20 @@ will need to arrange a time to present by emailing your instructor at
 
     -   Proposed Method described via flow-chart or pseudocode
 
-    -   Preliminary results including side-by-side comparisons with
+    -   Preliminary results, including side-by-side comparisons with
         alternative methods (if possible and completed)
 
     -   Discussion of your preliminary results and how they relate to
         other methods
 
-    -   Proposed Research to be conducted by then of the course
+    -   Proposed Research to be conducted by the end of the course
 
     -   Concluding remarks summarizing your accomplishments and proposed
         future work
 
--   ***Basic review paper presentation slide layout:***
+## Review paper presentation slide layout
 
-    -   Title slide with your name, title, date
+    -   Title slide with your name, title, and date
 
     -   Outline slide summarizing the different parts of your talk
 
