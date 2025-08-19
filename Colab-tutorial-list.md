@@ -1,14 +1,4 @@
-# Basic References
-
-The document covers the minimum requirements for developing Machine
-Learning tutorials code. While the information here is about tutorials,
-it provides a list of basic questions that everyone working with machine
-learning code should be able to answer.
-
-Refer to the `How to ...` tutorials for technical information on how
-to setup the tutorials.
-
-# Required Elements of a Tutorial
+# Required elements of each Tutorial
 
 You are required to use Google Colab to develop the tutorials. Google
 Colab will allow to run the code without complex installations. You can
@@ -170,6 +160,15 @@ Expected results in terms of metrics:
     Run the loop multiple times and show that the validation and testing
     losses converge to a good number. If the losses do not converge, you
     will need to add data augmentation.
+
+# Basic References
+The document covers the minimum requirements for developing Machine
+Learning tutorials code. While the information here is about tutorials,
+it provides a list of basic questions that everyone working with machine
+learning code should be able to answer.
+
+Refer to the `How to ...` tutorials for technical information on how
+to setup the tutorials.
 
 # Grading information
 
