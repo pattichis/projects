@@ -3,9 +3,9 @@
 **I. Requirement for project draft approval**
 
 You are **required** to have your project approved **after** submitting
-the proposal.
+the proposal. A meeting with the instructor is required. This meeting is not optional.
 
-**II. Proposal draft document**
+**II. Proposal draft document sections**
 
 You are required to submit an ***IEEE paper draft*** with the following
 **sections**. Failure to provide them separately will result in losing
@@ -83,27 +83,16 @@ points. It should be submitted in PDF format.
     papers or links to the papers that you will be using. This will
     allow me to review them with you.
 
-**Project proposal assessment**
-
-The goal of this assignment is to prepare you for a successful project.
-This first assignment requires drafts of your material that will be
-reviewed in face-to-face meetings. The assignment will be graded based
-on the following simplified metric for ***each project component***
-listed below:
-
--   **Approved:** Substantial effort has been demonstrated in preparing
-    the material.
-
--   **Needs improvement:** Some effort has been demonstrated but
-    significant material is lacking.
-
--   **Not approved:** Very little effort has been demonstrated.
-
-In addition to the above, your proposal draft will be graded based on:
-
 -   **Flow:** There needs to be a flow among the different parts of the
     proposal project. They should not contradict each other.
 
 -   **Connections:** I need to see the connections between the different
     portions of your paper. You should not ignore how the pieces connect
     to each other.
+
+
+**Project proposal assessment**
+
+The goal of this assignment is to prepare you for a successful project.
+This first assignment requires drafts of your material that will be
+reviewed in an online one-to-one meeting.
