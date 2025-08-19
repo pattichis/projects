@@ -105,7 +105,8 @@ Expected results in terms of metrics:
 # List of Required Google Colab Tutorials
 
 #1. Dataset Tutorial:   
-Provide sufficient information to define all elements of a dataset:
+
+    Provide sufficient information to define all elements of a dataset:
 
     -   Explain how to setup a dataset using Google Drive. Explain the
         directory structure and provide any zip, unzip commands.
@@ -119,60 +120,54 @@ Provide sufficient information to define all elements of a dataset:
         datasets.
 
 #2. Model Description Tutorial:   
-Provide sufficient information to access all elements of the model:
+
+    Provide sufficient information to access all elements of the model:
 
     Load a model:   
-        Give Python code of how to load a pretrained model. You may want
-        to use `wget` from a GitHub account.
+    Give Python code of how to load a pretrained model. 
+    You may want to use `wget` from a GitHub account.
 
-    Save a model
-    :   Give Python code of how to save your model.
+    Save a model:   
+    Give Python code of how to save your model.
 
-    Number of parameters
+    Number of parameters:   
+    You can give a command that prints how many.
 
-    :   You can give a command that prints how many.
+    Input layer:   
+    Demonstrate compatibility with the dataset tutorial.
 
-    Input layer
-
-    :   Demonstrate compatibility with the dataset tutorial.
-
-    Output layer
-
-    :   How many outputs? What are the activation functions? How do we
+    Output layer:   
+    How many outputs? What are the activation functions? How do we
         train the model? What is the loss function? Do you use
         cross-entropy, mean squared error? What is it?
 
-    Intermediate layers
-
-    :   Is the model using CNNs? Is it LSTM? Is it ResNet? Give a brief
+    Intermediate layers:   
+    Is the model using CNNs? Is it LSTM? Is it ResNet? Give a brief
         description of intermediate layers. You can reuse images from
         the reference papers. If small, print the entire model. Else,
         describe major parts of the model.
 
-#3. Model Optimization Tutorial
+#3. Model Optimization Tutorial:   
 
-:   Provide sufficient information to show how to fine-tune a model:
+    Provide sufficient information to show how to fine-tune a model:
 
-    Loss function
+    Loss function: 
+    Specify the loss function (as in the model description).
 
-    :   Specify the loss function (as in the model description).
+    Optimization algorithm:   
+    Give the name. Is it Adams? Which one. 
+    Give basic parameters of the optimization algorithm.
 
-    Optimization algorithm
-
-    :   Give the name. Is it Adams? Which one. Give basic parameters of
-        the optimization algorithm.
-
-    Learning rate
-
-    :   Give initial learning rate. If you adjust it, explain how.
+    Learning rate:   
+    Give initial learning rate. 
+    If you adjust it, explain how.
 
     Batch size:   
     Give the number of audio, images, or videos that are used in
         each batch.
 
-    Number of epochs
-
-    :   Provide the maximum number of epochs. Are you using early
+    Number of epochs:   
+    Provide the maximum number of epochs. Are you using early
         stopping?
 
     Train versus validation loss graphs:   
@@ -180,15 +175,18 @@ Provide sufficient information to access all elements of the model:
         you use early stopping? How did you avoid overfitting?
 
 #4. Basic Testing Tutorial:   
+    
     Load the pre-trained model using wget to download it and run it on
     one test example.
 
 #5. Basic fine-tuning Tutorial:   
+    
     Download a pre-trained model, setup the optimization loop, and show
     that the loss function is getting reduced. Retrain the pre-trained
     model for a few iterations to demonstrate the optimization process.
 
 #6. Full training Tutorial:   
+    
     Run the loop multiple times and show that the validation and testing
     losses converge to a good number. If the losses do not converge, you
     will need to add data augmentation.
