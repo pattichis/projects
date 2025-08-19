@@ -1,6 +1,9 @@
 # projects
 The goal of this repository is to support projects that use Python, AI, and Machine Learning.
 
+# Project assignments
+Requirements for project proposals, midterm presentations, and final presentations can be found in [project assignments webpage](https://github.com/pattichis/projects/blob/main/project-assignment.md). This readme file contains how-to tutorials to help you develop your project. Example projects are given at the end of this document.
+
 ## How to create a GitHub repo for your project
 To create your own repo refer to the [GitHub guide](https://github.com/pattichis/projects/blob/main/GitHub.md).
 
