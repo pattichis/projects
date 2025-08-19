@@ -1,29 +1,23 @@
-**Project Presentation**
+# Final project presentation
 
-**#1. Presentation Date:** You will be presenting the final project by
-arranging a time on Friday or Monday afternoon (1pm to 6pm) through
-consultation with the instructor. You will need to arrange a time to
-present by emailing your instructor at <pattichi@unm.edu>.
-
-Failure to present will result in **substantial loss of credit for the
+## Presentation Date
+You will be presenting the final project in a one-to-one time slot with
+the instructor. Failure to present will result in **substantial loss of credit for the
 course project (down to zero credit).**
 
-**Presentation Guidelines:**
+## Presentation Guidelines
 
 -   **You must keep track of the feedback received during your
     presentation. You will be expected to address the feedback in your
     final paper and presentation submission.**
-
 -   Need to cover 15 minutes: 12 minutes of slides and 3 minutes for
     questions.
-
 -   Roughly 12 slides, 1 minute per slide. **Groups can present up to 7
     times the number of people in the group.**
 
--   ***Basic method presentation slide layout:***
+## Basic method presentation slide layout
 
-    -   Title slide with your name, title, date
-
+    -   Title slide with your name, title, and date
     -   Outline slide summarizing the different parts of your talk
 
     -   Introduction and Motivation of the Problem
