@@ -1,6 +1,10 @@
 # Project proposal assignment
-All elements of the proposal can be found in the [proposal assignment](https://github.com/pattichis/projects/blob/main/proposal.md)
+All elements of the proposal can be found in the [proposal assignment](https://github.com/pattichis/projects/blob/main/proposal.md).
+You will need to present your proposal to your instructor to receive approval.
 
+# Midterm presentation
+If you are taking a problems course, you are required to have a midterm presentation.
+The guidelines for preparing for the midterm presentation can be found in [midterm presentation guide](https://github.com/pattichis/projects/blob/main/midterm-presentation.md).
 
 # Final documentation for models and datasets
 Required documentation for [models and datasets guide](https://github.com/pattichis/projects/blob/main/Datasets_and_models_reqs.md)
