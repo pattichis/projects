@@ -5,27 +5,8 @@ Learning tutorials code. While the information here is about tutorials,
 it provides a list of basic questions that everyone working with machine
 learning code should be able to answer.
 
-In what follows, refer to the following documents for additional
-information:
-
--   Refer to the document titled `GitHub Repo Guide` tutorial on how to
-    setup and work with a repository in GitHub.
-
--   Refer to the document titled
-    `Scikit Learn and PyTorch Installation Guide` for how to work with
-    Jupyter Notebooks or Google Colab notebooks.
-
--   Refer to the Google Colab tutorials associated with *Hands-On
-    Machine Learning with Schikit-Learn & Tensorflow*, 3rd edition for
-    examples of excellent tutorials like the ones required here. You can
-    find the Google Colab examples at [Colab
-    link](https://github.com/ageron/handson-ml3). Unfortunately, the
-    tutorials use Tensorflow, not PyTorch.
-
--   Refer to the document titled
-    `Running Google Colab Examples that Use PyTorch` for information on
-    how to run the official PyTorch tutorials and how to mount datasets
-    on Google Drive, as required here.
+Refer to the `How to ...` tutorials for technical information on how
+to setup the tutorials.
 
 # Required Elements of a Tutorial
 
@@ -36,34 +17,33 @@ add videos to explain the tutorial.
 The following is a list of requirements to make your tutorials useful:
 
 Text cells for documentation:
-
-:   Document the main part of the tutorial using text cells, not code
-    cells.
+    
+    Document the main part of the tutorial using text cells, not code cells.
 
 Sections:
 
-:   Create sections using:
-
+   Create sections using:
+   
           # Section title in a single text cell.
 
 Subsections:
 
-:   Create subsections using:
+     Create subsections using:
 
           ## Subsection title of a section in a single text cell.
 
 Top level description:
 
-:   Describe the scope of the tutorial at the top of the document.
+    Describe the scope of the tutorial at the top of the document.
 
 References at the top:
 
-:   Provide a list of references. This can include references to arxiv
+    Provide a list of references. This can include references to arxiv
     papers, GitHub Repos, datasets, etc.
 
 Top level library requirements:
 
-:   Provide a list of required libraries and how to install them. Make
+    Provide a list of required libraries and how to install them. Make
     sure to include appropriate versions of each library. Use `assert`
     commands to ensure that the libraries versions are available.
 
@@ -75,12 +55,12 @@ Top level library requirements:
 
 Mount Google Drive:
 
-:   This step includes information on how to mount Google Drive
+    This step includes information on how to mount Google Drive
     directories in Google Colab.
 
 Dataset requirements:
 
-:   Use `training`, `validation`, and `testing` directories. Provide
+    Use `training`, `validation`, and `testing` directories. Provide
     Google Drive directories and approximate storage requirements. This
     is especially important if you require large datasets. You may want
     to use a zip file to allow for the entire dataset. You must let
@@ -88,18 +68,18 @@ Dataset requirements:
 
 Hardware used for running:
 
-:   Provide a description of where the tutorial will run (e.g., CPU or
-    GPU). You may want to provide the GPU type.
+    Provide a description of where the tutorial will run (e.g., CPU,
+    GPU, TPU). You may want to provide the GPU type.
 
 Approximate execution times:
 
-:   You need to provide an approximate execution time for running the
+    You need to provide an approximate execution time for running the
     entire tutorial. It may also be appropriate to provide approximate
     execution times for downloading the dataset, training, and testing.
 
 Expected results in terms of metrics:
 
-:   Provide brief descriptions of expected results (e.g., 75% accuracy,
+    Provide brief descriptions of expected results (e.g., 75% accuracy,
     an AUC of 0.71, etc).
 
 # List of Required Google Colab Tutorials
