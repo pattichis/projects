@@ -1,15 +1,16 @@
-**Project Proposal Guide**
-
-**I. Requirement for project draft approval**
-
+# Project Proposal Guide
+## Requirement for project draft approval
 You are **required** to have your project approved **after** submitting
 the proposal. A meeting with the instructor is required. This meeting is not optional.
 
-**II. Proposal draft document sections**
-
+## Required material for project proposal
 You are required to submit an ***IEEE paper draft*** with the following
 **sections**. Failure to provide them separately will result in losing
-points. It should be submitted in PDF format.
+points. It should be submitted in PDF format. Here are the proposal guidelines:
+
+- Download an [IEEE Conference template](https://conferences.ieeeauthorcenter.ieee.org/write-your-paper/authoring-tools-and-templates/)
+
+- Follow the IEEE guidelines as given in the [guide](https://conferences.ieeeauthorcenter.ieee.org/write-your-paper/structure-your-paper/)
 
 -   **Title:** Your title should include the paper type: **review** or
     **original method** or **tutorial**. For example, your title needs
@@ -55,11 +56,9 @@ points. It should be submitted in PDF format.
 
 -   **Dataset requirements (1-3 pages):** Explain how you are going to
     collect your data. Where will the images or videos come from? Do you
-    already have them?
-
-    -   **Make sure that your dataset requirements are met as outlined
-        in the document title Project Requirements**
-
+    already have them? How will you build the training, validation, and test sets?
+    How many examples are in each set?
+    
 -   **Data training and independent testing method (max=1 paragraph):**
     You will need to optimize your method on a training set while
     reporting your results on an independent data set (e.g.,
