@@ -104,37 +104,28 @@ Expected results in terms of metrics:
 
 # List of Required Google Colab Tutorials
 
-#1. Dataset Tutorial
-
-:   Provide sufficient information to define all elements of a dataset:
+#1. Dataset Tutorial:   
+Provide sufficient information to define all elements of a dataset:
 
     -   Explain how to setup a dataset using Google Drive. Explain the
         directory structure and provide any zip, unzip commands.
-
     -   Provide code to play audio, display image, or play video based
         on what you are doing.
-
     -   Describe what the inputs are. Is it 1D/2D/3D NumPy array?
-
     -   Describe what the output labels are: What are the categories?
-
     -   Describe how to extend the dataset. Show how to download and add
         an audio, image, or a plain video to the dataset.
-
     -   Explain how to setup the training, validation, and testing
         datasets.
 
-#2. Model Description Tutorial
+#2. Model Description Tutorial:   
+Provide sufficient information to access all elements of the model:
 
-:   Provide sufficient information to access all elements of the model:
-
-    Load a model
-
-    :   Give Python code of how to load a pretrained model. You may want
+    Load a model:   
+        Give Python code of how to load a pretrained model. You may want
         to use `wget` from a GitHub account.
 
     Save a model
-
     :   Give Python code of how to save your model.
 
     Number of parameters
@@ -175,9 +166,8 @@ Expected results in terms of metrics:
 
     :   Give initial learning rate. If you adjust it, explain how.
 
-    Batch size
-
-    :   Give the number of audio, images, or videos that are used in
+    Batch size:   
+    Give the number of audio, images, or videos that are used in
         each batch.
 
     Number of epochs
@@ -185,25 +175,21 @@ Expected results in terms of metrics:
     :   Provide the maximum number of epochs. Are you using early
         stopping?
 
-    Train versus validation loss graphs
-
-    :   Explain any gaps between the training and validation graphs. Did
+    Train versus validation loss graphs:   
+    Explain any gaps between the training and validation graphs. Did
         you use early stopping? How did you avoid overfitting?
 
-#4. Basic Testing Tutorial
-
-:   Load the pre-trained model using wget to download it and run it on
+#4. Basic Testing Tutorial:   
+    Load the pre-trained model using wget to download it and run it on
     one test example.
 
-#5. Basic fine-tuning Tutorial
-
-:   Download a pre-trained model, setup the optimization loop, and show
+#5. Basic fine-tuning Tutorial:   
+    Download a pre-trained model, setup the optimization loop, and show
     that the loss function is getting reduced. Retrain the pre-trained
     model for a few iterations to demonstrate the optimization process.
 
-#6. Full training Tutorial
-
-:   Run the loop multiple times and show that the validation and testing
+#6. Full training Tutorial:   
+    Run the loop multiple times and show that the validation and testing
     losses converge to a good number. If the losses do not converge, you
     will need to add data augmentation.
 
@@ -215,23 +201,3 @@ otherwise stated, they carry equal weight. For more mature datasets, the
 made clear during the one-to-one meetings. The Google Colab tutorials
 are expected to run. You will receive little to no credit if a tutorial
 does not run.
-
-# Example Projects
-
-Custom dataset for image classification by James Griego:
-
-:   Main project link:
-    <https://github.com/jgreg4/ML-ImageClassify-Tutorial/blob/main/ML_Problems_ImageClassification_01.ipynb>.
-    Generic tutorial page:
-    <https://github.com/jgreg4/ML-ImageClassify-Tutorial>.
-
-Mars image segmentation by Ary Naim
-
-:   Main GitHub: <https://github.com/naimaryan1/LunarMUnet> Google Colab
-    primary link:
-    <https://colab.research.google.com/drive/1aiZMAFvt1e5_HM59oQ0EtJy6HIflzMpB?usp=sharing>.
-
-Custom classification dataset by Raphael Perea:
-
-:   <https://github.com/perear2/Custom-Dataset-Tutorial> You can run:
-    <https://github.com/perear2/Custom-Dataset-Tutorial/blob/main/dataloadingtutorial_2025.ipynb>
