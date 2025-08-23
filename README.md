@@ -23,9 +23,17 @@ You can access a self-paced image-processing-based introduction to AI and Machin
 ## How to learn Machine Learning using the Hands-on Machine Learning tutorials and book
 For more advanced work, refer to the Google Colab notebooks developed for [Hands on Machine Learning by Aurélien Géron](https://github.com/ageron/handson-mlp). 
 To install the tutorials locally on your machine, execute:
-  1. Follow [the installation instructions](https://github.com/ageron/handson-mlp/blob/main/INSTALL.md).
-  2. To learn more about working with Anaconda environments, refer to [my installation guide](https://github.com/pattichis/projects/blob/main/Anaconda-installation-notes.md).
-  3. Refer to my notes on working with [Jupyter notebooks](https://github.com/pattichis/projects/blob/main/Jupyter-Notebooks-Notes.md).
+  1. Follow [the installation instructions](https://github.com/ageron/handson-mlp/blob/main/INSTALL.md).<br>
+     If you have trouble with the torchvision installation, you may want to consult the link:
+
+     conda config --add channels conda-forge
+     conda config --set channel_priority strict
+     conda install torchvision
+
+     This material is covered in [Conda trips and tricks](https://conda-forge.org/docs/user/tipsandtricks/)
+
+  3. To learn more about working with Anaconda environments, refer to [my installation guide](https://github.com/pattichis/projects/blob/main/Anaconda-installation-notes.md).
+  4. Refer to my notes on working with [Jupyter notebooks](https://github.com/pattichis/projects/blob/main/Jupyter-Notebooks-Notes.md).
 
 His book titled <i>Hands-on Machine Learning with Scikit-Learn and Pytorch: Concepts, Tools, and Techniques To... Build Intelligent Systems</i>
 can be accessed for free through [UNM library links to O'Reilly books, IEEE, etc](https://libguides.unm.edu/computer-science)
@@ -34,7 +42,7 @@ The original Scikit-Learn website has outstanding tutorials for Machine Learning
 
 Similarly, the [official PyTorch website](https://pytorch.org/) is a great place to start.
 
-## How to run Google Colab tutorials availabe on PyTorch website
+## How to run Google Colab tutorials available on the PyTorch website
 Refer to my guide on how to mount datasets using Google Drive and how to test official PyTorch tutorials based on 
 [my Colab guide for PyTorch](https://github.com/pattichis/projects/blob/main/Colab-Pytorch.md)
 
