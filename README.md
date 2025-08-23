@@ -32,8 +32,10 @@ To install the tutorials locally on your machine, execute:
      ```
      This material is covered in [Conda trips and tricks](https://conda-forge.org/docs/user/tipsandtricks/)
 
-  3. To learn more about working with Anaconda environments, refer to [my installation guide](https://github.com/pattichis/projects/blob/main/Anaconda-installation-notes.md).
-  4. Refer to my notes on working with [Jupyter notebooks](https://github.com/pattichis/projects/blob/main/Jupyter-Notebooks-Notes.md).
+     Here is a screen dump of my successful installation based on [anaconda prompt](https://github.com/pattichis/projects/blob/main/handson-install.md).
+     
+  2. To learn more about working with Anaconda environments, refer to [my installation guide](https://github.com/pattichis/projects/blob/main/Anaconda-installation-notes.md).
+  3. Refer to my notes on working with [Jupyter notebooks](https://github.com/pattichis/projects/blob/main/Jupyter-Notebooks-Notes.md).
 
 His book titled <i>Hands-on Machine Learning with Scikit-Learn and Pytorch: Concepts, Tools, and Techniques To... Build Intelligent Systems</i>
 can be accessed for free through [UNM library links to O'Reilly books, IEEE, etc](https://libguides.unm.edu/computer-science)
