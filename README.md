@@ -25,11 +25,11 @@ For more advanced work, refer to the Google Colab notebooks developed for [Hands
 To install the tutorials locally on your machine, execute:
   1. Follow [the installation instructions](https://github.com/ageron/handson-mlp/blob/main/INSTALL.md).<br>
      If you have trouble with the torchvision installation, you may want to consult the link:
-
+     ```
      conda config --add channels conda-forge
      conda config --set channel_priority strict
      conda install torchvision
-
+     ```
      This material is covered in [Conda trips and tricks](https://conda-forge.org/docs/user/tipsandtricks/)
 
   3. To learn more about working with Anaconda environments, refer to [my installation guide](https://github.com/pattichis/projects/blob/main/Anaconda-installation-notes.md).
