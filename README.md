@@ -15,6 +15,7 @@ In order to develop Google Colab tutorials for your own repo, refer to [Google C
 2. Search for datasets, models, and dataset competitions on [kaggle](https://www.kaggle.com/).
 3. Search for Computer Vision datasets on [PyTorch vision datasets website](https://pytorch.org/vision/stable/datasets.html).
 4. Search for pretrained PyTorch models [PyTorch models website](https://pytorch.org/vision/stable/models.html).
+5. You can start with well-developed tutorials from [PyTorch Hub](https://pytorch.org/hub/). 
    
 ## How to learn Python and Machine Learning from scratch
 You can access a self-paced image-processing-based introduction to AI and Machine Learning through 
