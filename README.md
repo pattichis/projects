@@ -11,8 +11,8 @@ To create your own repo refer to the [GitHub guide](https://github.com/pattichis
 In order to develop Google Colab tutorials for your own repo, refer to [Google Colab tutorial for repos](https://github.com/pattichis/projects/blob/main/Colab-tutorial.md).
 
 ## How to find datasets and models for your project
-1. Special GitHub for [Medical video and regular video projects](https://github.com/pattichis/AIMV).
-2. Special GitHub for [PyTorch model optimization](https://github.com/pattichis/AIMV).
+1. Special GitHub for [Medical video and regular video analysis projects](https://github.com/pattichis/AIMV).
+2. Special GitHub for [PyTorch model optimization](https://github.com/pattichis/AIMV/blob/main/opt.md).
 3. Search for [Papers with code](https://paperswithcode.com/). Look separately for Methods and Datasets.
 4. Search for datasets, models, and dataset competitions on [kaggle](https://www.kaggle.com/).
 5. Search for Computer Vision datasets on [PyTorch vision datasets website](https://pytorch.org/vision/stable/datasets.html).
