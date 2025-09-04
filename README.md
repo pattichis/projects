@@ -61,6 +61,12 @@ One of my students found the Understanding Deep Learning book by Simon J.D. Prin
 
 At UNM, you can openly access the book by Professor Martínez-Ramón who teaches our Deep Learning course. His book, co-authored with UNM students alumni, is titled at <i>Deep learning : a practical introduction / Manel Martínez-Ramón, Meenu Ajith, Aswathy Rajendra Kurup</i>. You can access it through [link](https://research.ebsco.com/c/kov46v/search/details/j5rkgtpylz?limiters=FT1%3AY&q=Manel%20Martinez-Ramon%20Deep%20Learning). If the link does not work, search for it through the [UNM library link](https://library.unm.edu/).
 
+## How to learn about some modern AI trends
+The following textbook contains simple explanations to many essential concepts:
+`Machine Learning Q and AI by Sebastian Raschka.`
+It is availabe at
+[Oreilly link](https://learning.oreilly.com/library/view/machine-learning-q/9781098168827/).
+This is free for UNM students with an account.
 
 ## Sample projects
 
