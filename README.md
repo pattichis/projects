@@ -66,6 +66,10 @@ The following textbook contains simple explanations to many essential concepts:
 It is available at [Oreilly link](https://learning.oreilly.com/library/view/machine-learning-q/9781098168827/).
 For UNM students, it is available for free through [UNM library links to O'Reilly books, IEEE, etc](https://libguides.unm.edu/computer-science).
 
+## Toolboxes for specific Applications
+### TorchIO for 3D Medical Imaging Transformations and MRI image intensity variations 
+* [TorchIO](https://github.com/TorchIO-project/torchio)
+
 ## Sample projects
 <b>Audio classification by Benjamin Metzner</b><br>
 This GitHub demonstrates the new required format for GitHub projects for ECE 551. 
