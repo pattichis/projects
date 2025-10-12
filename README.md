@@ -25,7 +25,7 @@ You can access a self-paced image-processing-based introduction to AI and Machin
 [my guided tutorial](https://github.com/pattichis/AIML)
 
 ## How to learn Machine Learning using the Hands-on Machine Learning tutorials and book
-For more advanced work, refer to the Google Colab notebooks developed for [Hands on Machine Learning by Aurélien Géron](https://github.com/ageron/handson-mlp). 
+For more advanced work, refer to the Google Colab notebooks developed for [Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron](https://github.com/ageron/handson-mlp). 
 To install the tutorials locally on your machine, execute:
   1. Follow [the installation instructions](https://github.com/ageron/handson-mlp/blob/main/INSTALL.md).<br>
      If you have trouble with the torchvision installation, you may want to consult the link:
