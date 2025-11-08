@@ -15,6 +15,11 @@ at [Main Projects website](https://github.com/pattichis/projects).
 Note that modern models are based on Transformers, Foundation Models, 
 Generative Models, Federated Learning, and Explainable AI.
 
+## Model optimization requirements
+When documenting the training and oprimization process, you will need
+to cover the material described in
+[model optimization](https://github.com/pattichis/AIMV/blob/main/opt.md)
+
 ## Required material for project proposal
 You are required to submit an ***IEEE paper draft*** with the following
 **sections**. Failure to provide them separately will result in losing
