@@ -56,7 +56,7 @@ To describe the source of your datasets, consider:
         need.
 
     -   **Data collection protocol**: Explain how you are going to
-        collect the datasets. Here, you will need to provide:
+        collect the datasets. For images, here is an example of what you need to provide:
 
         -   Camera model with brief summary.
         -   Light source descriptions.
