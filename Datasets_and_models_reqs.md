@@ -1,18 +1,28 @@
 # Required descriptions for models and datasets for your project
 
-The project requires a short description of your dataset. At the project
-proposal time, you will need to briefly describe how you want to address
+The project requires a short description of your datasets. 
+Modern AI and Machine Learning projects involve the use of multiple datasets.
+Here are some examples:
+* Datasets:
+  You need to make sure that there are no overlaps between the training, validation,
+  and testing datasets.
+* Transfer learning training:
+  In this example, you will find a model pre-trained on a large dataset and
+  then adapt the top layer for a different dataset.
+* Out of distribution testing:
+  A mature model will be trained on a dataset from a specific sourse (e.g., a clinic)
+  and be tested on a dataset from a different source (e.g., another clinic). This practice is called
+  out-of-distribution testing. Ultimately, what matters most is how a model performs in
+  out-of-distribution testing.
+* Training and performance of foundation models on multiple tasks:
+  In this example, you would pre-train a model on several datasets and then adjust your model
+  for testing on another set of datasets. Here, you would need to explore how to train large
+  models.
+
+At the project proposal time, you will need to briefly describe how you want to address
 these requirements. Clearly, you will not fully understand what each
 model means when you prepare your project proposal. You will need to
 meet the full requirements in your final project description.
-
-The advice is to focus on working with digital videos (and possibly
-associated audio). However, you can use standard image datasets to help
-you find objects in videos. A good idea is to post-process the results
-that you get from different video frames to provide a better result over
-the video. In other words, consider building a video object detector
-based on still image object detection. For example projects, please
-take a look at the subsections of this document.
 
 To describe the source of your datasets, consider:
 
@@ -27,13 +37,14 @@ To describe the source of your datasets, consider:
     need to explain the differences between the project dataset and the
     training dataset.
 
--   **Models come with datasets**: For transfer learning, we often
+-   **Models come with datasets**: For modern AI and Machine Learning models, we often
     consider pre-trained models. You must clearly indicate the dataset
     that each model was pre-trained on.
 
-    For image classification problems, consider YOLO, VGG-16, and Faster
-    R-CNN. For video activity recognition problems, consider TSN,
-    Slowfast & Slowonly, and I3D. You will need to provide brief
+    Many modern models are based on Transformers. Consider the use
+    of Vision Transformers for your project. Additionally, consider models
+    based on YOLO, VGG-16, and Faster-CNN. Please refer to the main
+    project website for models and datasets. You will need to provide brief
     descriptions for these models (e.g. , number of parameters, number
     of layers, whether they are based on ResNet, Inception, etc).
 
@@ -67,11 +78,11 @@ different categories.
 
 For your project, you will need to clearly summarize the following:
 
--   **Training dataset**: Clearly indicate which part of the data you
+-   **Training datasets**: Clearly indicate which part of the data you
     will be using for **model fitting** and **model validation** (e.g.,
     80% for fitting and 20% for validation).
 
--   **Testing dataset**: Clearly indicate how you want to test your
+-   **Testing datasets**: Clearly indicate how you want to test your
     final model. Remember that the final model is trained over the
     entire training dataset. Your testing dataset needs to be
     sufficiently complex to capture the variations of actual data.
