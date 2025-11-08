@@ -3,6 +3,18 @@
 You are **required** to have your project approved **after** submitting
 the proposal. A meeting with the instructor is required. This meeting is not optional.
 
+## Selecting Datasets for your project
+Carefully review [Final documentation for models and datasets](https://github.com/pattichis/projects/blob/main/Datasets_and_models_reqs.md)
+
+## Developing Google Colab tutorials
+Carefully navigate to the lower-part of the website for [List of Required Google Colab Tutorials](https://github.com/pattichis/projects/blob/main/Colab-tutorial-list.md).
+
+## Finding models and datasets
+Review the guidelines for finding models and datasets that are available
+at [Main Projects website](https://github.com/pattichis/projects).
+Note that modern models are based on Transformers, Foundation Models, 
+Generative Models, Federated Learning, and Explainable AI.
+
 ## Required material for project proposal
 You are required to submit an ***IEEE paper draft*** with the following
 **sections**. Failure to provide them separately will result in losing
