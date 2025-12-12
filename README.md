@@ -71,6 +71,11 @@ For UNM students, it is available for free through [UNM library links to O'Reill
 * [TorchIO](https://github.com/TorchIO-project/torchio)
 
 ## Sample projects
+<b>Using VGGT and Affine Transformations on Point Clouds by Jason Wiberg</b><br>
+Within VGGT_Tutorial.ipynb you can learn to use VGGT to generate point clouds from images, and align the point clouds to specified coordinate systems that can correspond to real-world geometry. Then, you can also try to use generative AI models like Qwen-Image_edit-2509 and specialized Loras to generate images of a scene from different angles. Use the generated images to improve VGGT inference on the original image
+[GitHub](https://github.com/JasonWiberg/VGGT-and-Affine-Transformations-Tutorial)
+
+
 <b>RF signal classification by Markus Parrish</b><br>
 This project presents the development and evaluation of machine learning models for identification of radio–frequency (RF) signals, with a focus on
 Automatic Modulation Classification (AMC) using the RadioML 2016.10A dataset.
