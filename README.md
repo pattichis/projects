@@ -1,32 +1,15 @@
 # projects
 The goal of this repository is to support projects that use Python, AI, and Machine Learning.
 
-# Installing Anaconda and working with Jupyter Notebooks
+# Installations
+## Install Anaconda and Jupyter notebooks
 1. [Install Anaconda with necessary packages](https://github.com/pattichis/projects/blob/main/Anaconda-installation-notes.md).
 2. [Tutorial for using Jupyter notebooks](https://github.com/pattichis/projects/blob/main/Jupyter-Notebooks-Notes.md).
 
-# Project assignments
-Requirements for project proposals, midterm presentations, and final presentations can be found in [project assignments webpage](https://github.com/pattichis/projects/blob/main/project-assignment.md). This readme file contains how-to tutorials to help you develop your project. Example projects are given at the end of this document.
-
-## How to create a GitHub repo for your project
-To create your own repo refer to the [GitHub guide](https://github.com/pattichis/projects/blob/main/GitHub.md).
-
-## How to develop Google Colab tutorials for your project
-In order to develop Google Colab tutorials for your own repo, refer to [Google Colab tutorial for repos](https://github.com/pattichis/projects/blob/main/Colab-tutorial.md).
-
-## How to find datasets and models for your project
-1. Special GitHub for [Medical image and video analysis projects (including regular images and videos)](https://github.com/pattichis/AIM/edit/main/README.md)
-2. Special GitHub for [PyTorch model optimization](https://github.com/pattichis/AIMV/blob/main/opt.md).
-3. Search for Datasets on [Google Dataset Search](https://datasetsearch.research.google.com/).
-4. Search for [Papers with code](https://paperswithcode.com/). Look separately for Methods and Datasets.
-5. Search for datasets, models, and dataset competitions on [kaggle](https://www.kaggle.com/).
-6. Search for Computer Vision datasets on [PyTorch vision datasets website](https://pytorch.org/vision/stable/datasets.html).
-7. Search for pretrained PyTorch models [PyTorch models website](https://pytorch.org/vision/stable/models.html).
-8. You can start with well-developed tutorials from [PyTorch Hub](https://pytorch.org/hub/). 
-   
 ## How to learn Python and Machine Learning for processing images and videos from scratch
 You can access a self-paced image-processing-based introduction to AI and Machine Learning through 
 [my guided tutorial](https://github.com/pattichis/AIML)
+
 
 ## How to learn Machine Learning using the Hands-on Machine Learning tutorials and book
 For more advanced work, refer to the Google Colab notebooks developed for [Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron](https://github.com/ageron/handson-mlp). 
@@ -67,6 +50,27 @@ The following textbook contains simple explanations to many essential concepts:
 It is available at [Oreilly link](https://learning.oreilly.com/library/view/machine-learning-q/9781098168827/).
 For UNM students, it is available for free through [UNM library links to O'Reilly books, IEEE, etc](https://libguides.unm.edu/computer-science).
 
+
+
+# Project assignments
+Requirements for project proposals, midterm presentations, and final presentations can be found in [project assignments webpage](https://github.com/pattichis/projects/blob/main/project-assignment.md). This readme file contains how-to tutorials to help you develop your project. Example projects are given at the end of this document.
+
+## How to create a GitHub repo for your project
+To create your own repo refer to the [GitHub guide](https://github.com/pattichis/projects/blob/main/GitHub.md).
+
+## How to develop Google Colab tutorials for your project
+In order to develop Google Colab tutorials for your own repo, refer to [Google Colab tutorial for repos](https://github.com/pattichis/projects/blob/main/Colab-tutorial.md).
+
+## How to find datasets and models for your project
+1. Special GitHub for [Medical image and video analysis projects (including regular images and videos)](https://github.com/pattichis/AIM/edit/main/README.md)
+2. Special GitHub for [PyTorch model optimization](https://github.com/pattichis/AIMV/blob/main/opt.md).
+3. Search for Datasets on [Google Dataset Search](https://datasetsearch.research.google.com/).
+4. Search for [Papers with code](https://paperswithcode.com/). Look separately for Methods and Datasets.
+5. Search for datasets, models, and dataset competitions on [kaggle](https://www.kaggle.com/).
+6. Search for Computer Vision datasets on [PyTorch vision datasets website](https://pytorch.org/vision/stable/datasets.html).
+7. Search for pretrained PyTorch models [PyTorch models website](https://pytorch.org/vision/stable/models.html).
+8. You can start with well-developed tutorials from [PyTorch Hub](https://pytorch.org/hub/). 
+   
 ## Toolboxes for specific Applications
 ### TorchIO for 3D Medical Imaging Transformations and MRI image intensity variations 
 * [TorchIO](https://github.com/TorchIO-project/torchio)
