@@ -2,10 +2,8 @@
 The goal of this repository is to support projects that use Python, AI, and Machine Learning.
 
 # Installing Anaconda and working with Jupyter Notebooks
-## Install Anaconda with necessary packages
-Refer to [Anaconda installation guide](https://github.com/pattichis/projects/blob/main/Anaconda-installation-notes.md).
-## Working with Jupyter Notebooks
-Refer to [Notes on using Jupyter notebooks](https://github.com/pattichis/projects/blob/main/Jupyter-Notebooks-Notes.md).
+1. [Install Anaconda with necessary packages](https://github.com/pattichis/projects/blob/main/Anaconda-installation-notes.md).
+2. [Tutorial for using Jupyter notebooks](https://github.com/pattichis/projects/blob/main/Jupyter-Notebooks-Notes.md).
 
 # Project assignments
 Requirements for project proposals, midterm presentations, and final presentations can be found in [project assignments webpage](https://github.com/pattichis/projects/blob/main/project-assignment.md). This readme file contains how-to tutorials to help you develop your project. Example projects are given at the end of this document.
