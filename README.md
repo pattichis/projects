@@ -1,6 +1,12 @@
 # projects
 The goal of this repository is to support projects that use Python, AI, and Machine Learning.
 
+# Installing Anaconda and working with Jupyter Notebooks
+## Install Anaconda with necessary packages
+Refer to [Anaconda installation guide](https://github.com/pattichis/projects/blob/main/Anaconda-installation-notes.md).
+## Working with Jupyter Notebooks
+Refer to [Notes on using Jupyter notebooks](https://github.com/pattichis/projects/blob/main/Jupyter-Notebooks-Notes.md).
+
 # Project assignments
 Requirements for project proposals, midterm presentations, and final presentations can be found in [project assignments webpage](https://github.com/pattichis/projects/blob/main/project-assignment.md). This readme file contains how-to tutorials to help you develop your project. Example projects are given at the end of this document.
 
@@ -20,26 +26,23 @@ In order to develop Google Colab tutorials for your own repo, refer to [Google C
 7. Search for pretrained PyTorch models [PyTorch models website](https://pytorch.org/vision/stable/models.html).
 8. You can start with well-developed tutorials from [PyTorch Hub](https://pytorch.org/hub/). 
    
-## How to learn Python and Machine Learning from scratch
+## How to learn Python and Machine Learning for processing images and videos from scratch
 You can access a self-paced image-processing-based introduction to AI and Machine Learning through 
 [my guided tutorial](https://github.com/pattichis/AIML)
 
 ## How to learn Machine Learning using the Hands-on Machine Learning tutorials and book
 For more advanced work, refer to the Google Colab notebooks developed for [Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron](https://github.com/ageron/handson-mlp). 
 To install the tutorials locally on your machine, execute:
-  1. Follow [the installation instructions](https://github.com/ageron/handson-mlp/blob/main/INSTALL.md).<br>
-     If you have trouble with the torchvision installation, you may want to consult the link:
+Follow [the installation instructions](https://github.com/ageron/handson-mlp/blob/main/INSTALL.md).<br>
+If you have trouble with the torchvision installation, you may want to consult the link:
      ```
      conda config --add channels conda-forge
      conda config --set channel_priority strict
      conda install torchvision
      ```
-     This material is covered in [Conda trips and tricks](https://conda-forge.org/docs/user/tipsandtricks/)
+This material is covered in [Conda trips and tricks](https://conda-forge.org/docs/user/tipsandtricks/)
 
-     Here is a screen dump of my successful installation based on [anaconda prompt](https://github.com/pattichis/projects/blob/main/handson-install.md).
-     
-  2. To learn more about working with Anaconda environments, refer to [my installation guide](https://github.com/pattichis/projects/blob/main/Anaconda-installation-notes.md).
-  3. Refer to my notes on working with [Jupyter notebooks](https://github.com/pattichis/projects/blob/main/Jupyter-Notebooks-Notes.md).
+Here is a screen dump of my successful installation based on [anaconda prompt](https://github.com/pattichis/projects/blob/main/handson-install.md).
 
 His book titled <i>Hands-on Machine Learning with Scikit-Learn and Pytorch: Concepts, Tools, and Techniques To... Build Intelligent Systems</i>
 can be accessed for free through [UNM library links to O'Reilly books, IEEE, etc](https://libguides.unm.edu/computer-science)
