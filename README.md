@@ -1,7 +1,7 @@
 # projects
 The goal of this repository is to support projects that use Python, AI, and Machine Learning.
 
-# Installations
+# Installations and Tutorials
 ## Install Anaconda and Jupyter notebooks
 1. [Install Anaconda with necessary packages](https://github.com/pattichis/projects/blob/main/Anaconda-installation-notes.md).
 2. [Tutorial for using Jupyter notebooks](https://github.com/pattichis/projects/blob/main/Jupyter-Notebooks-Notes.md).
