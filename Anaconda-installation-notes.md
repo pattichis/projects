@@ -170,6 +170,13 @@ case, follow the information given in [uninstall
 link](https://docs.anaconda.com/free/anaconda/install/uninstall/).
 
 # Working with OpenCV libraries
+Make sure to install OpenCV using:
+
+    (base) ...>conda activate pytorch
+    (base) ...>conda install -c conda-forge opencv
+
+If something goes wrong, refer to [OpenCV's guide](https://www.opencvhelp.org/tutorials/introduction/how-to-install-open-cv-anaconda/) to create an OpenCV environment.
+
 The following instructions allow you to download OpenCV from [OpenCV
 link](https://github.com/opencv/opencv):
 
