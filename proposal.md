@@ -1,4 +1,7 @@
 # Project Proposal Guide
+## General project links (including sample projects)
+[Visit the main project website for installations, sample projects, and other support documents](https://github.com/pattichis/projects)
+
 ## Requirement for project draft approval
 You are **required** to have your project approved **after** submitting
 the proposal. A meeting with the instructor is required. This meeting is not optional.
