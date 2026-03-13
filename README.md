@@ -1,12 +1,11 @@
+# Projects
+The goal of this repository is to support projects that use Python, AI, and Machine Learning.
+
 # Project Proposals Guide
 [Project proposal assignment](https://github.com/pattichis/projects/blob/main/proposal.md)
 
 🔴 Click on the Outline button (upper-right button in GitHub) for a table of contents and to jump to a particular topic.<br />
 🔴 Right-click on each link to open in a new browser window.
-
-
-# projects
-The goal of this repository is to support projects that use Python, AI, and Machine Learning.
 
 # Installations and Tutorials
 ## Install Anaconda and Jupyter notebooks
