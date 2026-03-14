@@ -5,8 +5,9 @@ The goal of this repository is to support projects that use Python, AI, and Mach
 
 # Project Proposals Guide
 1. [Project proposal assignment](https://github.com/pattichis/projects/blob/main/proposal.md)
-2. See notes above on how to access different guides for the project.
-3. You can see sample projects at the end of this document.
+2. [Check if you can run your project on your computer](https://www.canirun.ai/)
+3. See notes above on how to access different guides for the project.
+4. You can see sample projects at the end of this document.
 
 # Installations and Tutorials
 ## Install Anaconda and Jupyter notebooks
