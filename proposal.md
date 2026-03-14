@@ -6,6 +6,8 @@
 You are **required** to have your project approved **after** submitting
 the proposal. A meeting with the instructor is required. This meeting is not optional.
 
+[You must verify that you can run your project on your computer](https://www.canirun.ai/)
+
 ## Selecting Datasets for your project
 Carefully review [Final documentation for models and datasets](https://github.com/pattichis/projects/blob/main/Datasets_and_models_reqs.md)
 
