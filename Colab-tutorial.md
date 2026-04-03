@@ -1,6 +1,8 @@
 # Develop your tutorials locally using Google Chrome and Google Drive
 As a student, you can get a Google Colab Pro account by providing your university ID. After you create your Google Colab Pro account, you can access and develop your project using the Google Drive directory.
 
+Use the following guidelines for editing Google Colab notebooks. For developing library files, see the comments below for editing directly in your GitHub account.
+
 ## Setup the directory using Google Drive:
 1. Install the "Google Drive" app on your computer to access files locally.
 2. Create a new folder in Google Drive for development.
