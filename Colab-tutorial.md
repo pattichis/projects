@@ -1,15 +1,20 @@
 # Develop your tutorials locally using Google Chrome and Google Drive
 As a student, you can get a Google Colab Pro account by providing your university ID. After you create your Google Colab Pro account, you can access and develop your project using the Google Drive directory.
 
-Here are the basic steps:
+## Setup the directory using Google Drive:
 1. Install the "Google Drive" app on your computer to access files locally.
 2. Create a new folder in Google Drive for development.
-3. Use "Download" to download Google Colab files to the Google Drive folder on your computer.
-4. Use "New" to create new Google Colab files from scratch.
-5. Use "Save Page As" to download library files (named library.py) to your directory.
-6. Inside Google Chrome, after you click on Google Drive, you can navigate to your directory and run Google Colab files locally.
-7. After you are done, you can upload your finalized version to your GitHub repo as discussed below.
 
+## Populating your directory with your Google Colab files:
+* New files: Use "New" to create new Google Colab files from scratch.
+* From GitHub: Use "Download" to download Google Colab files to the Google Drive folder on your computer.
+* From raw files on the internet: Use "Save Page As" to download library files (named library.py) to your directory.
+  
+## Debugging Google Colab files locally:
+1. Inside Google Chrome, after you click on Google Drive, you can navigate to your directory and run Google Colab files locally.
+2. Verify the location of your files by using "locate in drive".
+
+After you are done, you can create a GitHub repo to upload everything as highlighted below.
 
 # Create repositories with Google Colab notebooks
 
