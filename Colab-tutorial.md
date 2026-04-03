@@ -47,9 +47,9 @@ The following code will let you mount the Google Colab directory under
 
     !ls
 
-## Creating and saving a library file
+## Creating and saving a library file inside a Google Colab file
 
-Inside the Google Colab where you have debugged your function do:
+Inside the Google Colab where you have debugged your function, do:
 
     1. Mount the directory where you want to save your Python library.
     2. Copy all of the functions for your library inside a single cell.
