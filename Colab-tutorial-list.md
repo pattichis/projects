@@ -1,5 +1,8 @@
 # Required elements of each Tutorial
 
+When preparing a tutorial, it would be helpful to explain how you figured out the different parts of the code.
+For example, for each section, you can show how you figured out the use of different libraries to figure out how to complete the section below.
+
 You are required to use Google Colab to develop the tutorials. Google
 Colab will allow to run the code without complex installations. You can
 add videos to explain the tutorial.
