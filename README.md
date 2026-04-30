@@ -51,6 +51,11 @@ An accessible reference to modern AI/ML concepts can be found in [Deep Learning:
 
 One of my students found the Understanding Deep Learning book by Simon J.D. Prince to be highly accessible. This book can be accessed from [GitHub link](https://udlbook.github.io/udlbook/).
 
+An excellent openly available textbook for modern Computer Vision is freely available at [computer vision book](https://visionbook.mit.edu/):
+```
+Foundations of Computer Vision by Antonio Torralba, Phillip Isola, and William Freeman, MIT Press.
+```
+
 A sequence of openly available and accessible books can be found at:
  ["Probabilistic machine learning”: a book series by Kevin Murphy](https://probml.github.io/pml-book/):
 ```
