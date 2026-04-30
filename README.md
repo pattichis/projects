@@ -51,6 +51,15 @@ An accessible reference to modern AI/ML concepts can be found in [Deep Learning:
 
 One of my students found the Understanding Deep Learning book by Simon J.D. Prince to be highly accessible. This book can be accessed from [GitHub link](https://udlbook.github.io/udlbook/).
 
+A sequence of openly available and accessible books can be found at:
+ ["Probabilistic machine learning”: a book series by Kevin Murphy](https://probml.github.io/pml-book/):
+```
+Book 0: “Machine Learning: A Probabilistic Perspective” (2012)
+Book 1: “Probabilistic Machine Learning: An Introduction” (2022)
+Book 2: “Probabilistic Machine Learning: Advanced Topics” (2023)
+```
+I believe that the [introductory book](https://probml.github.io/pml-book/book1.html) and [advanced topics book](https://probml.github.io/pml-book/book2.html) are essential reading!
+
 At UNM, you can openly access the book by Professor Martínez-Ramón who teaches our Deep Learning course. His book, co-authored with UNM students alumni, is titled at <i>Deep learning : a practical introduction / Manel Martínez-Ramón, Meenu Ajith, Aswathy Rajendra Kurup</i>. You can access it through [link](https://research.ebsco.com/c/kov46v/search/details/j5rkgtpylz?limiters=FT1%3AY&q=Manel%20Martinez-Ramon%20Deep%20Learning). If the link does not work, search for it through the [UNM library link](https://library.unm.edu/).
 
 The following textbook contains simple explanations to many essential concepts:
