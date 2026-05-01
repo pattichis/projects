@@ -48,11 +48,8 @@ Refer to my guide on how to mount datasets using Google Drive and how to test of
 For the statistical foundations of AI and Machine Learning methods, I use [An Introduction to Statistical Learning](https://www.statlearning.com/). You can download the PDF of the book for free. The accompanying Python labs are excellent and demonstrate several essential concepts.
 
 A book that covers learning theory from a probabilistic perspective, including important inequalities, I recommend 
-that you look at: 
-     ```
-     Learning Theory from First Principles, Francis Bach, MIT Press, 2025.
-     ```
-The book PDF can be found at [Learning theory book](https://www.di.ens.fr/~fbach/ltfp_book.pdf).
+is [Learning Theory from First Principles, Francis Bach, MIT Press, 2025](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
+(PDF link provided).
 
 An accessible reference to modern AI/ML concepts can be found in [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/). The book is freely available online.
 
