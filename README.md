@@ -21,24 +21,24 @@ You will be expected to address the feedback in your final submission.
 You will have 15 minutes. Use 10 minutes for the presentation and 5 minutes for questions.
 
 For a basic review method presentation, here is the recommended slide layout:
-o	Title slide with your name, title, date
-o	Outline slide summarizing the different parts of your talk
-o	Introduction and Motivation of the Problem
-o	Background: Existing or competitive methods and what they have missed
-o	Proposed Method described via flow-chart or pseudocode
-o	Results including side-by-side comparisons with alternative methods (if possible)
-o	Discussion of your results and how they relate to other methods
-o	Concluding remarks summarizing your accomplishments and proposed future work
+*	Title slide with your name, title, date
+*	Outline slide summarizing the different parts of your talk
+*	Introduction and Motivation of the Problem
+*	Background: Existing or competitive methods and what they have missed
+*	Proposed Method described via flow-chart or pseudocode
+*	Results including side-by-side comparisons with alternative methods (if possible)
+*	Discussion of your results and how they relate to other methods
+*	Concluding remarks summarizing your accomplishments and proposed future work
 
 For a basic review paper presentation, here is the recommended slide layout:
-o	Title slide with your name, title, date
-o	Outline slide summarizing the different parts of your talk
-o	Introduction and motivation for the review: Why is this area still relevant? Why do you expect this area to grow? 
-o	Background: A summary of older methods that are much older, classical, and will not be the focus of this review. 
-o	Current Systems: An outline of common components and characteristics of most current systems. Carefully provide choices for the different components. You can demonstrate some basic components 
-o	Emerging Systems: Show some more recent systems that are significantly different that most “deployed” systems and how they differ
-o	Future Directions and Open problems in the area
-o	Concluding remarks summarizing problems that you consider closed and where the growth is likely to be
+*	Title slide with your name, title, date
+*	Outline slide summarizing the different parts of your talk
+*	Introduction and motivation for the review: Why is this area still relevant? Why do you expect this area to grow? 
+*	Background: A summary of older methods that are much older, classical, and will not be the focus of this review. 
+*	Current Systems: An outline of common components and characteristics of most current systems. Carefully provide choices for the different components. You can demonstrate some basic components 
+*	Emerging Systems: Show some more recent systems that are significantly different that most “deployed” systems and how they differ
+*	Future Directions and Open problems in the area
+*	Concluding remarks summarizing problems that you consider closed and where the growth is likely to be
 
 
 ## 2. Feedback response document
