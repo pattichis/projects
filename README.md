@@ -12,6 +12,9 @@ Make sure to select a presentation spot before the deadline.
 If none of the times work for you, please contact the instructor immediately.
 You will receive zero credit if you do not present your project.
 
+If you choose to deliver a list of Google Colab tutorials instead of a paper refer to 
+[detailed requirements for Google Colab](https://github.com/pattichis/projects/blob/main/Colab-tutorial-list.md).
+
 ### Presentation guidelines
 You must keep track of the feedback received during your presentation. 
 You will be expected to address the feedback in your final submission.
@@ -32,7 +35,7 @@ o	Title slide with your name, title, date
 o	Outline slide summarizing the different parts of your talk
 o	Introduction and motivation for the review: Why is this area still relevant? Why do you expect this area to grow? 
 o	Background: A summary of older methods that are much older, classical, and will not be the focus of this review. 
-o	Current Systems: An outline of common components and characterize most current systems. Carefully provide choices for the different components. You can demonstrate some basic components 
+o	Current Systems: An outline of common components and characteristics of most current systems. Carefully provide choices for the different components. You can demonstrate some basic components 
 o	Emerging Systems: Show some more recent systems that are significantly different that most “deployed” systems and how they differ
 o	Future Directions and Open problems in the area
 o	Concluding remarks summarizing problems that you consider closed and where the growth is likely to be
@@ -60,6 +63,8 @@ Here is a list of other suggested guidelines:
 •	Must clearly show and discuss the database of images that you are working with
 •	Must show a flow-chart and/or pseudo-code of the methods
 •	Must have comparisons with different methods or a discussion of how other methods perform 
+
+For the Google Colab tutorials list you can find [detailed requirements for Google Colab](https://github.com/pattichis/projects/blob/main/Colab-tutorial-list.md).
 
 # Project Proposals Guide
 1. [Project proposal assignment](https://github.com/pattichis/projects/blob/main/proposal.md)
