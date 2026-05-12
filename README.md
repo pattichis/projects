@@ -51,6 +51,7 @@ You have to submit:
 2. Feedback response document.<br />
    Provide a separate document summarizing changes suggested during your presentation.
 4. Final paper and/or GitHub link (see below)
+5. Groups only: provide a statement detailing efforts by different group members.
 
 The final paper page limit is 5 pages for a standard project.
 For group projects, the limit is 10 pages.
