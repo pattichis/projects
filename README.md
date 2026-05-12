@@ -1,7 +1,65 @@
 # Projects
-The goal of this repository is to support projects that use Python, AI, and Machine Learning.
+The goal of this repository is to support projects that use Python, AI, and Machine Learning.<br />
 🔴 Click on the Outline button (upper-right button in GitHub) for a table of contents and to jump to a particular topic.<br />
 🔴 Right-click on each link to open in a new browser window.
+
+# Final Project Presentation and Deliverables
+## 1. Final presentation
+All projects must be presented. You must select a presentation time.
+An individual project gets 15 minutes. A group project of 2 or more must reserve 30 minutes.
+A separate link to a sign-up sheet is provided in the class assignment.  
+Make sure to select a presentation spot before the deadline. 
+If none of the times work for you, please contact the instructor immediately.
+You will receive zero credit if you do not present your project.
+
+### Presentation guidelines
+You must keep track of the feedback received during your presentation. 
+You will be expected to address the feedback in your final submission.
+You will have 15 minutes. Use 10 minutes for the presentation and 5 minutes for questions.
+
+For a basic review method presentation, here is the recommended slide layout:
+o	Title slide with your name, title, date
+o	Outline slide summarizing the different parts of your talk
+o	Introduction and Motivation of the Problem
+o	Background: Existing or competitive methods and what they have missed
+o	Proposed Method described via flow-chart or pseudocode
+o	Results including side-by-side comparisons with alternative methods (if possible)
+o	Discussion of your results and how they relate to other methods
+o	Concluding remarks summarizing your accomplishments and proposed future work
+
+For a basic review paper presentation, here is the recommended slide layout:
+o	Title slide with your name, title, date
+o	Outline slide summarizing the different parts of your talk
+o	Introduction and motivation for the review: Why is this area still relevant? Why do you expect this area to grow? 
+o	Background: A summary of older methods that are much older, classical, and will not be the focus of this review. 
+o	Current Systems: An outline of common components and characterize most current systems. Carefully provide choices for the different components. You can demonstrate some basic components 
+o	Emerging Systems: Show some more recent systems that are significantly different that most “deployed” systems and how they differ
+o	Future Directions and Open problems in the area
+o	Concluding remarks summarizing problems that you consider closed and where the growth is likely to be
+
+
+## 2. Feedback response document
+During the presentation, I will ask questions about different aspects of the project.
+You will be required to provide a <b>response document</b> that addresses the questions made during the presentation. 
+
+## 3. Final deliverables
+You have to submit:
+1. Final presentation slides.
+2. Feedback response document.<br />
+   Provide a separate document summarizing changes suggested during your presentation.
+4. Final paper and/or GitHub link (see below)
+
+The final paper page limit is 5 pages for a standard project.
+For group projects, the limit is 10 pages.
+You can also use unlimited pages of appendices to describe the code or datasets.
+The final paper needs to follow the IEEE paper formatting guidelines.
+Here is a list of other suggested guidelines:
+•	You can follow your presentation guidelines on how to organize your paper
+•	Follow the lectures on how to write the paper
+•	IEEE Journal format required and IEEE-style transactions and journal paper references
+•	Must clearly show and discuss the database of images that you are working with
+•	Must show a flow-chart and/or pseudo-code of the methods
+•	Must have comparisons with different methods or a discussion of how other methods perform 
 
 # Project Proposals Guide
 1. [Project proposal assignment](https://github.com/pattichis/projects/blob/main/proposal.md)
