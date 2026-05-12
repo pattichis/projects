@@ -102,7 +102,7 @@ In order to develop Google Colab tutorials for your own repo, refer to [Google C
 ### TorchIO for 3D Medical Imaging Transformations and MRI image intensity variations 
 * [TorchIO](https://github.com/TorchIO-project/torchio)
 
-## Sample projects
+# Sample projects
 <b>Using VGGT and Affine Transformations on Point Clouds by Jason Wiberg</b><br>
 Within VGGT_Tutorial.ipynb you can learn to use VGGT to generate point clouds from images, and align the point clouds to specified coordinate systems that can correspond to real-world geometry. Then, you can also try to use generative AI models like Qwen-Image_edit-2509 and specialized Loras to generate images of a scene from different angles. Use the generated images to improve VGGT inference on the original image
 [GitHub](https://github.com/JasonWiberg/VGGT-and-Affine-Transformations-Tutorial)
