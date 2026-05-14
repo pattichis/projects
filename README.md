@@ -168,8 +168,8 @@ In order to develop Google Colab tutorials for your own repo, refer to [Google C
 
 # Sample projects
 <b>DiffIR: Tutorial of Diffusion-Based Image Restoration by Jason Wiberg</b><br>
-In this tutorial, we show in detail how to load, run, and fine-tune the DiffIR (diffusion-image-restoration) realSR (real-world-super-resolution) model. The purpose of this model is to enable a user to restore degraded images (blurry, noisy, low resolution, etc.).<br>
-[GitHub](https://github.com/JasonWiberg/DiffIR-Tutorial/new/main).
+In this tutorial, we show in detail how to load, run, and fine-tune the DiffIR (diffusion-image-restoration) realSR (real-world-super-resolution) model. The purpose of this model is to enable a user to restore degraded images (blurry, noisy, low resolution, etc.)
+[GitHub](https://github.com/JasonWiberg/DiffIR-Tutorial/new/main)
 
 <b>Using VGGT and Affine Transformations on Point Clouds by Jason Wiberg</b><br>
 Within VGGT_Tutorial.ipynb you can learn to use VGGT to generate point clouds from images, and align the point clouds to specified coordinate systems that can correspond to real-world geometry. Then, you can also try to use generative AI models like Qwen-Image_edit-2509 and specialized Loras to generate images of a scene from different angles. Use the generated images to improve VGGT inference on the original image
