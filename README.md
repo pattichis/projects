@@ -11,6 +11,35 @@ The goal of this repository is to support projects that use Python, AI, and Mach
 Important references for learning AI and Machine Learning can be
    found at [external AI/ML links](https://github.com/pattichis/projects/blob/main/references.md).
 
+# Project Proposals Guide
+1. [Project proposal assignment](https://github.com/pattichis/projects/blob/main/proposal.md)
+2. [Check if you can run your project on your computer](https://www.canirun.ai/)
+3. See notes above on how to access different guides for the project.
+4. You can see sample projects at the end of this document.
+
+# Project assignments
+Requirements for project proposals, midterm presentations, and final presentations can be found in [project assignments webpage](https://github.com/pattichis/projects/blob/main/project-assignment.md). This readme file contains how-to tutorials to help you develop your project. Example projects are given at the end of this document.
+
+## How to create a GitHub repo for your project
+To create your own repo refer to the [GitHub guide](https://github.com/pattichis/projects/blob/main/GitHub.md).
+
+## How to develop Google Colab tutorials for your project
+In order to develop Google Colab tutorials for your own repo, refer to [Google Colab tutorial for repos](https://github.com/pattichis/projects/blob/main/Colab-tutorial.md).
+
+## How to find datasets and models for your project
+1. Special GitHub for [Medical image and video analysis projects (including regular images and videos)](https://github.com/pattichis/AIM/edit/main/README.md)
+2. Special GitHub for [PyTorch model optimization](https://github.com/pattichis/AIMV/blob/main/opt.md).
+3. Search for Datasets on [Google Dataset Search](https://datasetsearch.research.google.com/).
+4. Search for [Papers with code](https://paperswithcode.com/). Look separately for Methods and Datasets.
+5. Search for datasets, models, and dataset competitions on [kaggle](https://www.kaggle.com/).
+6. Search for Computer Vision datasets on [PyTorch vision datasets website](https://pytorch.org/vision/stable/datasets.html).
+7. Search for pretrained PyTorch models [PyTorch models website](https://pytorch.org/vision/stable/models.html).
+8. You can start with well-developed tutorials from [PyTorch Hub](https://pytorch.org/hub/). 
+   
+## Toolboxes for specific Applications
+### TorchIO for 3D Medical Imaging Transformations and MRI image intensity variations 
+* [TorchIO](https://github.com/TorchIO-project/torchio)
+
 # Final Project Presentation and Deliverables
 ## 1. Final presentation
 All projects must be presented. You must select a presentation time.
@@ -43,7 +72,8 @@ For a basic review paper presentation, here is the recommended slide layout:
 *	Outline slide summarizing the different parts of your talk
 *	Introduction and motivation for the review: Why is this area still relevant? Why do you expect this area to grow? 
 *	Background: A summary of older methods that are much older, classical, and will not be the focus of this review. 
-*	Current Systems: An outline of common components and characteristics of most current systems. Carefully provide choices for the different components. You can demonstrate some basic components 
+*	Current Systems: An outline of common components and characteristics of most current systems. Carefully provide choices for the different components.
+  You can demonstrate some basic components here. 
 *	Emerging Systems: Show some more recent systems that are significantly different that most “deployed” systems and how they differ
 *	Future Directions and Open problems in the area
 *	Concluding remarks summarizing problems that you consider closed and where the growth is likely to be
@@ -73,36 +103,8 @@ Here is a list of other suggested guidelines:
 •	Must show a flow-chart and/or pseudo-code of the methods
 •	Must have comparisons with different methods or a discussion of how other methods perform 
 
-For the Google Colab tutorials list you can find [detailed requirements for Google Colab](https://github.com/pattichis/projects/blob/main/Colab-tutorial-list.md).
-
-# Project Proposals Guide
-1. [Project proposal assignment](https://github.com/pattichis/projects/blob/main/proposal.md)
-2. [Check if you can run your project on your computer](https://www.canirun.ai/)
-3. See notes above on how to access different guides for the project.
-4. You can see sample projects at the end of this document.
-
-# Project assignments
-Requirements for project proposals, midterm presentations, and final presentations can be found in [project assignments webpage](https://github.com/pattichis/projects/blob/main/project-assignment.md). This readme file contains how-to tutorials to help you develop your project. Example projects are given at the end of this document.
-
-## How to create a GitHub repo for your project
-To create your own repo refer to the [GitHub guide](https://github.com/pattichis/projects/blob/main/GitHub.md).
-
-## How to develop Google Colab tutorials for your project
-In order to develop Google Colab tutorials for your own repo, refer to [Google Colab tutorial for repos](https://github.com/pattichis/projects/blob/main/Colab-tutorial.md).
-
-## How to find datasets and models for your project
-1. Special GitHub for [Medical image and video analysis projects (including regular images and videos)](https://github.com/pattichis/AIM/edit/main/README.md)
-2. Special GitHub for [PyTorch model optimization](https://github.com/pattichis/AIMV/blob/main/opt.md).
-3. Search for Datasets on [Google Dataset Search](https://datasetsearch.research.google.com/).
-4. Search for [Papers with code](https://paperswithcode.com/). Look separately for Methods and Datasets.
-5. Search for datasets, models, and dataset competitions on [kaggle](https://www.kaggle.com/).
-6. Search for Computer Vision datasets on [PyTorch vision datasets website](https://pytorch.org/vision/stable/datasets.html).
-7. Search for pretrained PyTorch models [PyTorch models website](https://pytorch.org/vision/stable/models.html).
-8. You can start with well-developed tutorials from [PyTorch Hub](https://pytorch.org/hub/). 
-   
-## Toolboxes for specific Applications
-### TorchIO for 3D Medical Imaging Transformations and MRI image intensity variations 
-* [TorchIO](https://github.com/TorchIO-project/torchio)
+For the Google Colab tutorials list you can find 
+[detailed requirements for Google Colab](https://github.com/pattichis/projects/blob/main/Colab-tutorial-list.md).
 
 # Sample projects
 <b>Feature-based image classification by Phil Gailinas</b><br>
