@@ -3,6 +3,14 @@ The goal of this repository is to support projects that use Python, AI, and Mach
 🔴 Click on the Outline button (upper-right button in GitHub) for a table of contents and to jump to a particular topic.<br />
 🔴 Right-click on each link to open in a new browser window.
 
+# Install Anaconda and Jupyter notebooks
+1. [Install Anaconda with necessary packages](https://github.com/pattichis/projects/blob/main/Anaconda-installation-notes.md).
+2. [Tutorial for using Jupyter notebooks](https://github.com/pattichis/projects/blob/main/Jupyter-Notebooks-Notes.md).
+
+# Tutorials on AI and Machine Learning
+Important references for learning AI and Machine Learning can be
+   found at [external AI/ML links](https://github.com/pattichis/projects/blob/main/references.md).
+
 # Final Project Presentation and Deliverables
 ## 1. Final presentation
 All projects must be presented. You must select a presentation time.
