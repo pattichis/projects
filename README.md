@@ -7,7 +7,7 @@ The goal of this repository is to support projects that use Python, AI, and Mach
 1. [Install Anaconda with necessary packages](https://github.com/pattichis/projects/blob/main/Anaconda-installation-notes.md).
 2. [Tutorial for using Jupyter notebooks](https://github.com/pattichis/projects/blob/main/Jupyter-Notebooks-Notes.md).
 
-# Tutorials on AI and Machine Learning
+# Tutorials and Books for learning AI and Machine Learning
 Important references for learning AI and Machine Learning can be
    found at [external AI/ML links](https://github.com/pattichis/projects/blob/main/references.md).
 
