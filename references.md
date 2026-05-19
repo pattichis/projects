@@ -1,8 +1,4 @@
-
-# Installations and Tutorials
-## Install Anaconda and Jupyter notebooks
-1. [Install Anaconda with necessary packages](https://github.com/pattichis/projects/blob/main/Anaconda-installation-notes.md).
-2. [Tutorial for using Jupyter notebooks](https://github.com/pattichis/projects/blob/main/Jupyter-Notebooks-Notes.md).
+# Tutorials on AI and Machine Learning
 
 ## How to learn Python and Machine Learning for processing images and videos from scratch
 You can access a self-paced image-processing-based introduction to AI and Machine Learning through 
