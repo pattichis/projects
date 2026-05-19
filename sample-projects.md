@@ -1,5 +1,9 @@
 # Sample projects
 
+## SAR Ship Detection - YOLO and RT-DETR Comparison Tutorial by Carter Thompson
+The goal of this tutorial is to show how to train, utilize, and compare the efficacy of two machine learning models for SAR Ship Detection
+[GitHub](https://github.com/carthomp99/ML-SARShipDetection-Tutorial).
+
 ## NeRF: Neural radiance field image quality assessment and optimization by Josiah Castaneda
 The image quality project investigates how image distortions influence Neural Radiance Field (NeRF) reconstruction quality using SSIM, MS-SSIM, and NIQE. Controlled distortion experiments were conducted using the LLFF Pinecone dataset with Gaussian blur, Gaussian noise, impulse noise, and JPEG compression applied to the training images [GitHub to image quality project](https://github.com/Josiahdcasta/nerfiqa).
 
