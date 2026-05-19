@@ -1,5 +1,11 @@
 # Sample projects
 
+## NeRF: Neural radiance field image quality assessment and optimization by Josiah Castaneda
+The image quality project investigates how image distortions influence Neural Radiance Field (NeRF) reconstruction quality using SSIM, MS-SSIM, and NIQE. Controlled distortion experiments were conducted using the LLFF Pinecone dataset with Gaussian blur, Gaussian noise, impulse noise, and JPEG compression applied to the training images [GitHub to image quality project](https://github.com/Josiahdcasta/nerfiqa).
+
+This repository presents an experimental analysis of the optimization behavior of Neural Radiance Fields (NeRF).
+The project focuses on understanding how different optimizers, learning-rate strategies, batch sizes, and architectural choices affect convergence, stability, and reconstruction quality during NeRF training [GitHub for NeRF optimization](https://github.com/Josiahdcasta/nerfopt).
+
 ## Feature-based image classification by Phil Gailinas
 This project will present a tutorial-based approach
 for distinguishing AI-generated images from real-world pho-
