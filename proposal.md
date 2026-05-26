@@ -111,6 +111,8 @@ points. It should be submitted in PDF format. Here are the proposal guidelines:
     portions of your paper. You should not ignore how the pieces connect
     to each other.
 
+Everything should be properly formated as demonstrated in
+[properly formatted paper components](https://github.com/pattichis/projects/blob/main/format-examples.md).
 
 **Project proposal assessment**
 
