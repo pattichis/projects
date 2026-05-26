@@ -78,6 +78,8 @@ For a basic review paper presentation, here is the recommended slide layout:
 *	Future Directions and Open problems in the area
 *	Concluding remarks summarizing problems that you consider closed and where the growth is likely to be
 
+Everything should be properly formated as demonstrated in
+[properly formatted paper components](https://github.com/pattichis/projects/blob/main/format-examples.md).
 
 ## 2. Feedback response document
 During the presentation, I will ask questions about different aspects of the project.
