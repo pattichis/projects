@@ -1,5 +1,21 @@
 # Sample projects
 
+# Example Project: Describe a dataset with GitHub access
+
+## Professional dataset website example
+This link shows a nice example of how to share a dataset with proper licensing from the
+[Stanford School of Medicine Echonet group](https://echonet.github.io/lvh/).
+
+## How to present a custom dataset in GitHub
+This link shows how to set up a dataset in GitHub and organize everything in a single Google Colab from
+[James Griego's GitHub](https://github.com/jgreg4/ML-ImageClassify-Tutorial).
+
+## How to present a large dataset in Google Drive
+This link shows to setup a dataset in Google Drive and run a custom environment from
+[Ary Naim's Google Drive link](https://colab.research.google.com/drive/1aiZMAFvt1e5_HM59oQ0EtJy6HIflzMpB?usp=sharing). This is an image segmentation example using U-Net.
+
+# Other projects
+
 ## SAR Ship Detection - YOLO and RT-DETR Comparison Tutorial by Carter Thompson
 The goal of this tutorial is to show how to train, utilize, and compare the efficacy of two machine learning models for SAR Ship Detection
 [GitHub](https://github.com/carthomp99/ML-SARShipDetection-Tutorial).
@@ -65,15 +81,8 @@ There are separate modules for data loading, training, and testing. Refer to
 This GitHub demonstrates the use of foundation models with FastAPI to provide ground truth.
 It can be accessed through [video segmentation project](https://github.com/briyoon/ECE551-Video-Seg)
 
-## Custom dataset for image classification by James Griego
-This early GitHub provides essential information on how to build a 
-[custom dataset for image classification using open datasets](https://github.com/jgreg4/ML-ImageClassify-Tutorial).
-
 ## Custom dataset for 1000 handwritten digit images captured by Raphael Perea
 This GitHub provides information on how to build a dataset based on your own images.
 It can be accessed through
 [custom dataset based on 1000 handwritten digit images](https://github.com/perear2/Custom-Dataset-Tutorial).
 
-## Mars image segmentation by Ary Naim
-This GitHub provides an [image segmentation example](https://github.com/naimaryan1/LunarMUnet).
-You can directly run the tutorial based on the [Google drive link](https://colab.research.google.com/drive/1aiZMAFvt1e5_HM59oQ0EtJy6HIflzMpB?usp=sharing).
