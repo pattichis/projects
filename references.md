@@ -30,22 +30,22 @@ Similarly, the [official PyTorch website](https://pytorch.org/) is a great place
 Refer to my guide on how to mount datasets using Google Drive and how to test official PyTorch tutorials based on 
 [my Colab guide for PyTorch](https://github.com/pattichis/projects/blob/main/Colab-Pytorch.md)
 
-## How to learn more about Machine Learning and Statistical Learning theory using other recommended books
-For the statistical foundations of AI and Machine Learning methods, I use [An Introduction to Statistical Learning](https://www.statlearning.com/). You can download the PDF of the book for free. The accompanying Python labs are excellent and demonstrate several essential concepts.
-
-A book that covers learning theory from a probabilistic perspective, including important inequalities, I recommend 
-is [Learning Theory from First Principles, Francis Bach, MIT Press, 2025](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
-(PDF link provided).
-
-An accessible reference to modern AI/ML concepts can be found in [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/). The book is freely available online.
-
-One of my students found the Understanding Deep Learning book by Simon J.D. Prince to be highly accessible. This book can be accessed from [GitHub link](https://udlbook.github.io/udlbook/).
-
+## How to learn more about Machine Learning and Statistical Learning theory using recommended books
 An excellent openly available textbook for modern Computer Vision is freely available at [computer vision book](https://visionbook.mit.edu/):
      ```
      Foundations of Computer Vision by Antonio Torralba, Phillip Isola,
      and William Freeman, MIT Press.
      ```
+     
+An accessible reference to modern AI/ML concepts can be found in [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/). The book is freely available online.
+
+Another accessible coverage is given by Understanding Deep Learning by Simon J.D. Prince. This book can be accessed from [GitHub link](https://udlbook.github.io/udlbook/).
+
+For the statistical foundations of AI and Machine Learning methods, I use [An Introduction to Statistical Learning](https://www.statlearning.com/). You can download the PDF of the book for free. The accompanying Python labs are excellent and demonstrate several essential concepts.
+
+A book that covers learning theory from a probabilistic perspective, including important inequalities, I recommend 
+is [Learning Theory from First Principles, Francis Bach, MIT Press, 2025](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
+(PDF link provided).
 
 A sequence of openly available and accessible books can be found at:
  ["Probabilistic machine learning”: a book series by Kevin Murphy](https://probml.github.io/pml-book/):
@@ -54,7 +54,7 @@ Book 0: “Machine Learning: A Probabilistic Perspective” (2012)
 Book 1: “Probabilistic Machine Learning: An Introduction” (2022)
 Book 2: “Probabilistic Machine Learning: Advanced Topics” (2023)
 ```
-I believe that the [introductory book](https://probml.github.io/pml-book/book1.html) and [advanced topics book](https://probml.github.io/pml-book/book2.html) are essential reading!
+I believe that the [introductory book](https://probml.github.io/pml-book/book1.html) and [advanced topics book](https://probml.github.io/pml-book/book2.html) are good references.
 
 At UNM, you can openly access the book by Professor Martínez-Ramón who teaches our Deep Learning course. His book, co-authored with UNM students alumni, is titled at <i>Deep learning : a practical introduction / Manel Martínez-Ramón, Meenu Ajith, Aswathy Rajendra Kurup</i>. You can access it through [link](https://research.ebsco.com/c/kov46v/search/details/j5rkgtpylz?limiters=FT1%3AY&q=Manel%20Martinez-Ramon%20Deep%20Learning). If the link does not work, search for it through the [UNM library link](https://library.unm.edu/).
 
