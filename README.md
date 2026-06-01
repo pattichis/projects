@@ -36,10 +36,6 @@ In order to develop Google Colab tutorials for your own repo, refer to [Google C
 7. Search for pretrained PyTorch models [PyTorch models website](https://pytorch.org/vision/stable/models.html).
 8. You can start with well-developed tutorials from [PyTorch Hub](https://pytorch.org/hub/). 
    
-## Toolboxes for specific Applications
-### TorchIO for 3D Medical Imaging Transformations and MRI image intensity variations 
-* [TorchIO](https://github.com/TorchIO-project/torchio)
-
 # Final Project Presentation and Deliverables
 ## 1. Final presentation
 All projects must be presented. You must select a presentation time.
