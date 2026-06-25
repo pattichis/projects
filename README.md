@@ -27,14 +27,14 @@ To create your own repo refer to the [GitHub guide](https://github.com/pattichis
 In order to develop Google Colab tutorials for your own repo, refer to [Google Colab tutorial for repos](https://github.com/pattichis/projects/blob/main/Colab-tutorial.md).
 
 ## How to find datasets and models for your project
-1. Special GitHub for [Medical image and video analysis projects (including regular images and videos)](https://github.com/pattichis/AIM/edit/main/README.md)
-2. Special GitHub for [PyTorch model optimization](https://github.com/pattichis/AIMV/blob/main/opt.md).
-3. Search for Datasets on [Google Dataset Search](https://datasetsearch.research.google.com/).
-4. Search for [Papers with code](https://paperswithcode.com/). Look separately for Methods and Datasets.
-5. Search for datasets, models, and dataset competitions on [kaggle](https://www.kaggle.com/).
-6. Search for Computer Vision datasets on [PyTorch vision datasets website](https://pytorch.org/vision/stable/datasets.html).
-7. Search for pretrained PyTorch models [PyTorch models website](https://pytorch.org/vision/stable/models.html).
-8. You can start with well-developed tutorials from [PyTorch Hub](https://pytorch.org/hub/). 
+1. Special GitHub for [Medical image and video analysis projects (including regular images and videos)](https://github.com/pattichis/AIM)
+3. Special GitHub for [PyTorch model optimization](https://github.com/pattichis/AIMV/blob/main/opt.md).
+4. Search for Datasets on [Google Dataset Search](https://datasetsearch.research.google.com/).
+5. Search for [Papers with code](https://paperswithcode.com/). Look separately for Methods and Datasets.
+6. Search for datasets, models, and dataset competitions on [kaggle](https://www.kaggle.com/).
+7. Search for Computer Vision datasets on [PyTorch vision datasets website](https://pytorch.org/vision/stable/datasets.html).
+8. Search for pretrained PyTorch models [PyTorch models website](https://pytorch.org/vision/stable/models.html).
+9. You can start with well-developed tutorials from [PyTorch Hub](https://pytorch.org/hub/). 
    
 # Final Project Presentation and Deliverables
 ## 1. Final presentation
