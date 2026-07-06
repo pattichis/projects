@@ -41,6 +41,8 @@ An accessible reference to modern AI/ML concepts can be found in [Deep Learning:
 
 Another accessible coverage is given by Understanding Deep Learning by Simon J.D. Prince. This book can be accessed from [GitHub link](https://udlbook.github.io/udlbook/).
 
+A more theoretical treatment can be found in [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/). 
+
 For the statistical foundations of AI and Machine Learning methods, I use [An Introduction to Statistical Learning](https://www.statlearning.com/). You can download the PDF of the book for free. The accompanying Python labs are excellent and demonstrate several essential concepts.
 
 A book that covers learning theory from a probabilistic perspective, including important inequalities, I recommend 
