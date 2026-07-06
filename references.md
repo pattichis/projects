@@ -31,7 +31,7 @@ Refer to my guide on how to mount datasets using Google Drive and how to test of
 [my Colab guide for PyTorch](https://github.com/pattichis/projects/blob/main/Colab-Pytorch.md)
 
 ## How to learn more about Machine Learning and Statistical Learning theory using recommended books
-An excellent openly available textbook for modern Computer Vision is freely available at [computer vision book](https://visionbook.mit.edu/):
+An excellent openly available textbook for modern Computer Vision is freely available at [computer vision book](https://visionbook.mit.edu/):<br>
      ```
      Foundations of Computer Vision by Antonio Torralba, Phillip Isola,
      and William Freeman, MIT Press.
@@ -39,7 +39,7 @@ An excellent openly available textbook for modern Computer Vision is freely avai
      
 An accessible reference to modern AI/ML concepts can be found in [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/). The book is freely available online.
 
-Another accessible coverage is given by Understanding Deep Learning by Simon J.D. Prince. This book can be accessed from [GitHub link](https://udlbook.github.io/udlbook/).
+Another accessible coverage is given by [Understanding Deep Learning](https://udlbook.github.io/udlbook/) by Simon J.D. Prince.
 
 A more theoretical treatment can be found in [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/). 
 
