@@ -114,6 +114,10 @@ points. It should be submitted in PDF format. Here are the proposal guidelines:
 Everything should be properly formatted as demonstrated in
 [properly formatted paper components](https://github.com/pattichis/projects/blob/main/format-examples.md).
 
+
+## Required project proposal contract for group projects (2 or more students)
+You are required to submit a contract for projects that involve 2 or more students. See [group contract link](https://github.com/pattichis/projects/blob/main/Group-contract.pdf).
+
 **Project proposal assessment**
 
 The goal of this assignment is to prepare you for a successful project.
