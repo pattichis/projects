@@ -111,11 +111,15 @@ points. It should be submitted in PDF format. Here are the proposal guidelines:
     portions of your paper. You should not ignore how the pieces connect
     to each other.
 
-Everything should be properly formated as demonstrated in
+Everything should be properly formatted as demonstrated in
 [properly formatted paper components](https://github.com/pattichis/projects/blob/main/format-examples.md).
 
 **Project proposal assessment**
 
 The goal of this assignment is to prepare you for a successful project.
+
+## Project proposal and revised proposal grading
+The information is available in the [grading rubric](https://github.com/pattichis/projects/blob/main/Project-proposal-grade-rubric.pdf).
+
 This first assignment requires drafts of your material that will be
 reviewed in an online one-to-one meeting.
